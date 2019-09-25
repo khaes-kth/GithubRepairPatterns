@@ -1,0 +1,667 @@
+
+Arja:any_statement_shallow
+/////////////////Luban;c3efb1250d7add194c683489c2b1b4c7779bbc80/////////////////////
+update readme
+
+
+/////////////////InstaMaterial;d8fd621ae931de40fe4f872e97adf5750d950f63/////////////////////
+Fixed NPE for restoring user profile state
+
+
+/////////////////HomeMirror;6b57f2ef7b775c5968e717fcc0b7fc90189c9d9f/////////////////////
+Fixing crash with null provider
+
+
+/////////////////SmartTabLayout;92d34fc8144c6a45676e9724cc6f0ba427071ee9/////////////////////
+Update android support library version to 22.2.1
+
+
+/////////////////android-async-http;ddf6f83b7854c8bcbbe8ed234498ae32cd7b96a5/////////////////////
+Fixed wrong onFailure -> onSuccess fallback, #895
+
+
+/////////////////ion;6e7414fdca1b4e03650092fac56db5d04158afaf/////////////////////
+fixup file extension detection
+
+
+/////////////////EffectiveAndroidUI;abcfdd6dde00434acd3822fde62299f783d8dd35/////////////////////
+Fix bug related with addAll method in TvShowCollection
+
+
+/////////////////cw-omnibus;403030efd6f2851524dcf994aab751637216afb1/////////////////////
+bug fix: had priority change in wrong location
+
+
+/////////////////jsoup;fb588770a45a9ab6b64fce0f800d50ec225a42ee/////////////////////
+Reorder conn.disconnect, to support keepalives when bodyStream read
+
+Fixes #1232
+
+
+/////////////////android-Ultra-Pull-To-Refresh;508c63266de51ad8c010ac9912f7592b2f2da8fc/////////////////////
+keep going with cube-sdk
+
+
+/////////////////SmartTabLayout;d7643dc6b5c0f87d1d1bf76e09f3c8052dc26c7e/////////////////////
+Callback onTabClick before change tab.
+
+
+/////////////////MaterialEditText;a028a843073e4cd83ffb33d823eebf4b51314a36/////////////////////
+Sync OnFocusChangeListener bug fix to AutoComlete widget.
+
+
+/////////////////CircleImageView;0d9f88a94732741abae1494a9b3a034c51951383/////////////////////
+Reorder setup condition checks
+
+
+/////////////////stetho;19ffdf6765bbc7040172a3b8f6e0c12dc3d13b70/////////////////////
+fix payloadData length error
+
+fix payloadData length error when it's length is more than 0xffff
+
+/////////////////MaterialEditText;69af008744dd73f1e33e2d8767cbbd35c7da65c8/////////////////////
+Sync OnFocusChangedListener bug fix to MultiAuto widget.
+
+
+/////////////////AndroidSwipeLayout;f53ccb009c18e4766ddd29b4766a3676bf875d88/////////////////////
+fix issue: https://github.com/daimajia/AndroidSwipeLayout/issues/134#issuecomment-95018822
+
+
+/////////////////okhttp;bd6a97a7200dda2127a0a6b7167fef0d09febf27/////////////////////
+Acknowledge and apply inbound settings atomically
+
+Closes: https://github.com/square/okhttp/issues/5422
+
+Unfortunately testing this is awkward because it's racy. I did
+run a stress test that used to reproduce the problem, and now it
+doesn't, so I am satisfied.
+
+
+/////////////////BottomBar;8de557934396c626ec8a94716c8b0764685c4208/////////////////////
+Moved tab resource check to init method
+
+
+
+Elixir:update_invocation
+/////////////////FadingActionBar;d15e26ef296964d4d844af341a560cb698ab8944/////////////////////
+use getHeight instead of getMeasuredHeight
+
+
+/////////////////Luban;c3efb1250d7add194c683489c2b1b4c7779bbc80/////////////////////
+update readme
+
+
+/////////////////SmartTabLayout;92d34fc8144c6a45676e9724cc6f0ba427071ee9/////////////////////
+Update android support library version to 22.2.1
+
+
+/////////////////android-async-http;ddf6f83b7854c8bcbbe8ed234498ae32cd7b96a5/////////////////////
+Fixed wrong onFailure -> onSuccess fallback, #895
+
+
+/////////////////android-volley;0aa7873db1048c41b279e4f216e4cf2ee35d0802/////////////////////
+tweak getCacheKey(), using original url, fix issues #78
+
+/////////////////EffectiveAndroidUI;abcfdd6dde00434acd3822fde62299f783d8dd35/////////////////////
+Fix bug related with addAll method in TvShowCollection
+
+
+/////////////////ListViewAnimations;3bcbf2682b2012d404c83474fe7fe729fef14eea/////////////////////
+Fixing StickyListHeadersListViewWrapper.getChildAt()
+
+
+/////////////////stetho;a62dd11a42496ec586bb6435fc2d1719e6da22fe/////////////////////
+Added ability for domain classes to be inherited: look-up for methods with @ChromeDevtoolsMethod not only in the class itself, but also in the parent classes.
+
+
+/////////////////android-Ultra-Pull-To-Refresh;508c63266de51ad8c010ac9912f7592b2f2da8fc/////////////////////
+keep going with cube-sdk
+
+
+/////////////////FadingActionBar;59f4f383fffc26b99fe302b9de548849e396057d/////////////////////
+use getHeight instead of getMeasuredHeight
+
+
+/////////////////u2020;c70ad33491a82b11749f89e140837f3c9c656c55/////////////////////
+Fix wrong LruCache max size.
+
+/////////////////greenDAO;884d7a3c57614326183cb91808ffd2594f1f8d58/////////////////////
+Actually get writable db with getEncryptedWritableDb.
+
+- Closes https://github.com/greenrobot/greenDAO/issues/572.
+
+
+/////////////////spring-framework;74897bc52a8c3524746f604450066c1bc4cac6e0/////////////////////
+Use Reactor's new Schedulers.boundedElastic()
+
+Prior to this commit, Spring Framework would use `Schedulers.elastic()`
+in places where we needed to process blocking tasks in a reactive
+environment.
+
+With reactor/reactor-core#1804, a new `Schedulers.boundedElastic()`
+
+/////////////////okhttp;bd6a97a7200dda2127a0a6b7167fef0d09febf27/////////////////////
+Acknowledge and apply inbound settings atomically
+
+Closes: https://github.com/square/okhttp/issues/5422
+
+Unfortunately testing this is awkward because it's racy. I did
+run a stress test that used to reproduce the problem, and now it
+doesn't, so I am satisfied.
+
+
+/////////////////RxJava-Android-Samples;035836185f60faa62427742a96f692bad8d35e99/////////////////////
+fix: use concatEager vs concat courtesy Jake's suggestion
+
+ 🙏 [Jedi
+Jake](https://twitter.com/JakeWharton/status/786362280535592961).
+
+
+
+JMutRepair:binary_1
+/////////////////DroidPlugin;a740ea545162aeb3dc75c8ea3bf0409af6d1cd8f/////////////////////
+Fix(fixWindowManagerHook):  fix bug IWindowManagerBinderHook@fixWindowManagerHook
+
+https://github.com/Qihoo360/DroidPlugin/issues/144
+
+
+/////////////////SystemBarTint;37c85774023b64bac852bef1c16ceb63523bb8a1/////////////////////
+smallest width check should be inclusive of 600dp - fixes #2
+
+/////////////////CircleImageView;f98b11c3867b5ad28b66717e6149fe4e86fe6f8b/////////////////////
+Tweak border drawing condition
+
+
+/////////////////StickyListHeaders;750b4325d7350bbce43d79f01b63afff794712b8/////////////////////
+Make sure to clear sticky header when at top
+
+/////////////////DroidPlugin;28e4fdac9fe47806924841a87952a9c5f4049dc7/////////////////////
+fix (IGraphicsStatsBinderHook): IGraphicsStatsBinderHook only for VERSION_CODES.LOLLIPOP_MR1 newer
+
+
+
+Elixir:BO_change
+/////////////////DroidPlugin;a740ea545162aeb3dc75c8ea3bf0409af6d1cd8f/////////////////////
+Fix(fixWindowManagerHook):  fix bug IWindowManagerBinderHook@fixWindowManagerHook
+
+https://github.com/Qihoo360/DroidPlugin/issues/144
+
+
+/////////////////SystemBarTint;37c85774023b64bac852bef1c16ceb63523bb8a1/////////////////////
+smallest width check should be inclusive of 600dp - fixes #2
+
+/////////////////CircleImageView;f98b11c3867b5ad28b66717e6149fe4e86fe6f8b/////////////////////
+Tweak border drawing condition
+
+
+/////////////////StickyListHeaders;750b4325d7350bbce43d79f01b63afff794712b8/////////////////////
+Make sure to clear sticky header when at top
+
+/////////////////DroidPlugin;28e4fdac9fe47806924841a87952a9c5f4049dc7/////////////////////
+fix (IGraphicsStatsBinderHook): IGraphicsStatsBinderHook only for VERSION_CODES.LOLLIPOP_MR1 newer
+
+
+
+Nopol:if_condition_upd_deep
+/////////////////DroidPlugin;708df95fcfd3521875f2a2394ac213c9358898cd/////////////////////
+Fix（PluginCallBack）：isShortcutProxyActivity
+
+
+/////////////////ActionBarSherlock;12ea33df8149a3d5548d095994fcb62d372db349/////////////////////
+Use 'sw' and 'w' qualifiers on ICS+ only.
+
+
+/////////////////android-classyshark;391f1d22542914de5c75544a46698a1ace9e0a67/////////////////////
+condition fix
+
+
+/////////////////android-gpuimage;2026558aceebea6a1764fc7236c94f8c52b76cdb/////////////////////
+Update GPUImageFilter.java
+
+Fix a mistake.
+
+/////////////////circular-progress-button;f865b0c69bf79d164ddc85a0516626441ca60bea/////////////////////
+The icon error should show even if the complete icon is incorrect, however if there's no complete icon the icon error shouldn't show
+
+
+/////////////////Apktool;bae5aab78afd49e91bfdeb3cff527f974f2f858a/////////////////////
+fix: use only long builder for "--only-main-classes"
+
+
+/////////////////DroidPlugin;cb945b8fe3307c964bc9821c5640a2030df555f1/////////////////////
+Feat(BUILD):编译失败
+
+
+/////////////////PhotoView;7cd26009764389a560c62e9bea279a9456be0eeb/////////////////////
+Fix getPointerCount() calls
+
+
+/////////////////swagger-core;9b2ea860414fa6fcd66fc50b84786029c76f5d59/////////////////////
+ref #2340 - fixes discriminator property resolving
+
+
+/////////////////SimplifyReader;9312ae85998a9f20dc1b11889de5b0760dbcb81b/////////////////////
+Downgrade `com.github.chrisbanes.photoview:library` from 1.2.3 to 1.2.2.
+
+
+
+Elixir:update_typre_ref
+/////////////////acra;3bcbfd38f409d6cae21ebf753405ccec7be5132f/////////////////////
+null
+/////////////////android-volley;8ddacfef03c503625ed174d7ad6ff3e934cb1fa9/////////////////////
+forgot to change `JSONObject` to `JSONArray`
+
+/////////////////AppIntro;f61a9c38c84c8e3f8a803e8dc7de635aeba16cdf/////////////////////
+Kotlinize the ScrollerCustomDuration
+
+
+/////////////////androidmvp;ab199866872cc5387510a7d69210562adec791a8/////////////////////
+Change parameter type of the Constructor of LoginPresenterImpl (#36)
+
+
+
+/////////////////otto;2ce66d0778310970262c9bce4655934e4b13502a/////////////////////
+fix compiler warning about use of unparameterized Comparable declaration.
+Replaced Comparable with Serializable.
+
+
+/////////////////stetho;6458b5c5687baa0d106d8890b6b448292170c578/////////////////////
+Remove private class (CallFunctionOnResponse) from signature of the public method
+(otherwise class can't be extended and method overridden (Only @ChromeDevtoolsMethod methods are detected and method needed to be overridden because look-up is done only in declared methods)
+
+
+/////////////////go-lang-idea-plugin;c4f486219a4ad8c228b558c885fa987c80c41813/////////////////////
+Regenerate parser
+
+
+
+Arja:any_statement_deep
+/////////////////Luban;c3efb1250d7add194c683489c2b1b4c7779bbc80/////////////////////
+update readme
+
+
+/////////////////InstaMaterial;d8fd621ae931de40fe4f872e97adf5750d950f63/////////////////////
+Fixed NPE for restoring user profile state
+
+
+/////////////////android-iconify;4bd1b98f272f408ee4b5b2004ed4c770dff21fcf/////////////////////
+Fixed #111 Calling IconDrawable.draw(Canvas) results in missing fill color for icon
+
+
+/////////////////xUtils3;d743432d59d2f351d61ff8351a00004f4876332c/////////////////////
+update docs
+
+
+/////////////////uCrop;dc1f5aeb1eec38733de6616c1f46db1bca834db4/////////////////////
+log fix
+
+
+/////////////////muzei;1b6fd086a607f66c2086d3e82efa566365a7be54/////////////////////
+Fix Javadoc complaining about import
+
+
+/////////////////coursera-android;ea5ee473e484562f02128568a7fd68c0a69d2acc/////////////////////
+Fix package naming
+
+/////////////////coursera-android;849a67c33f680b498a2c425818e54644f53c443e/////////////////////
+Fix package naming
+
+/////////////////MaterialEditText;a028a843073e4cd83ffb33d823eebf4b51314a36/////////////////////
+Sync OnFocusChangeListener bug fix to AutoComlete widget.
+
+
+/////////////////FloatingActionButton;14aaf10cbfb4c60145ed48ed31f5f87069449c70/////////////////////
+
+/////////////////AndroidViewAnimations;e02aa9fa999d5ad49775a05238172431d7e6ce16/////////////////////
+remove easing functions, start dependent https://github.com/daimajia/AnimationEasingFunctions/commits?author=daimajia
+
+
+/////////////////MaterialEditText;69af008744dd73f1e33e2d8767cbbd35c7da65c8/////////////////////
+Sync OnFocusChangedListener bug fix to MultiAuto widget.
+
+
+/////////////////spring-framework;74897bc52a8c3524746f604450066c1bc4cac6e0/////////////////////
+Use Reactor's new Schedulers.boundedElastic()
+
+Prior to this commit, Spring Framework would use `Schedulers.elastic()`
+in places where we needed to process blocking tasks in a reactive
+environment.
+
+With reactor/reactor-core#1804, a new `Schedulers.boundedElastic()`
+
+/////////////////swagger-core;9b2ea860414fa6fcd66fc50b84786029c76f5d59/////////////////////
+ref #2340 - fixes discriminator property resolving
+
+
+/////////////////SystemBarTint;37c85774023b64bac852bef1c16ceb63523bb8a1/////////////////////
+smallest width check should be inclusive of 600dp - fixes #2
+
+/////////////////go-lang-idea-plugin;dad74b6e54aaedc9794a55b2c17af77150eeb18e/////////////////////
+Get rid of deprecated constant usage
+
+
+/////////////////greenDAO;88b00f636b1bc6bf157d0068e0cd2e97367ebfd5/////////////////////
+Update RxJava, update SQLCipher version used by tests.
+
+- Update encrypted SQLite version check.
+
+
+/////////////////NumberProgressBar;dc05dfd710494db69f968a80b1744e5660903c80/////////////////////
+fixed wrong UnreachedBarColor #25
+
+
+/////////////////android-classyshark;31b4af5baa06f1621d467b4c60aa5814966cac28/////////////////////
+minor typo fix
+
+
+/////////////////react-native;92fed269c225e9decef0ad1fd6a2237d1be5cf47/////////////////////
+Switch to YogaNodeFactory.create
+
+Summary: Switch to `YogaNodeFactory.create()` instead of using `YogaNode.create()`
+
+Reviewed By: SidharthGuglani
+
+Differential Revision: D17258195
+
+fbshipit-source-id: 5f31540724a16e401fcd0fbdf19a4baa354b2d72
+
+
+/////////////////DroidPlugin;cb945b8fe3307c964bc9821c5640a2030df555f1/////////////////////
+Feat(BUILD):编译失败
+
+
+/////////////////SystemBarTint;2eb10f23c466d2e36a90079f5be6e9419f88a222/////////////////////
+fix sample intent adapter
+
+/////////////////Android-Bootstrap;ea1a1f160cd4560633e8bb393227f26e969a1102/////////////////////
+fix bootstrap label rounded corners
+
+
+/////////////////PhotoView;7cd26009764389a560c62e9bea279a9456be0eeb/////////////////////
+Fix getPointerCount() calls
+
+
+/////////////////stetho;a62dd11a42496ec586bb6435fc2d1719e6da22fe/////////////////////
+Added ability for domain classes to be inherited: look-up for methods with @ChromeDevtoolsMethod not only in the class itself, but also in the parent classes.
+
+
+/////////////////uCrop;f808347d8c1a2ca015a7eaf913458c63ff7082a9/////////////////////
+Applied new color schema to uCrop controls
+
+
+/////////////////dexposed;fac4d086a4a85a31a67fa71bbd78e8335b1ddde7/////////////////////
+The 2.3&2.2 devices also use dexposed so. Note: The 3.x devices don't
+support.
+
+/////////////////DroidPlugin;28e4fdac9fe47806924841a87952a9c5f4049dc7/////////////////////
+fix (IGraphicsStatsBinderHook): IGraphicsStatsBinderHook only for VERSION_CODES.LOLLIPOP_MR1 newer
+
+
+/////////////////sqlbrite;65030db12fdc8e6664007c212be2569b32c6d7ba/////////////////////
+Fix a typo in the sample data
+
+
+/////////////////FadingActionBar;59f4f383fffc26b99fe302b9de548849e396057d/////////////////////
+use getHeight instead of getMeasuredHeight
+
+
+/////////////////ActionBarSherlock;12ea33df8149a3d5548d095994fcb62d372db349/////////////////////
+Use 'sw' and 'w' qualifiers on ICS+ only.
+
+
+/////////////////fastjson;a123a51f3379264cd08c3ba390a8a6ddfd87b0ff/////////////////////
+Bug fixed for issue #2428
+
+
+/////////////////CircleImageView;f98b11c3867b5ad28b66717e6149fe4e86fe6f8b/////////////////////
+Tweak border drawing condition
+
+
+/////////////////SimplifyReader;d6af25677c4924b499cc7ef7eaa1a59a708b4f59/////////////////////
+Fix invalid douban url param
+
+/////////////////roboguice;030ffe93b8d3416acc382ce5698e21020d055b99/////////////////////
+bug fixed, AccessibilityManager injected instead of AudioManager
+
+
+/////////////////Android-Bootstrap;a6bdfb92d2d4852f5ab5ee7f3c7a3f37795fede1/////////////////////
+potentialy fixed bootstrapButton size affecting its mode
+
+
+/////////////////Apktool;9edcc78ee57c01580ba744dda222807029f16186/////////////////////
+style: clean test file
+
+
+/////////////////async-http-client;0de511df05739bb37694a8e2aab571fb58fd678a/////////////////////
+Make test broken by Jetty upgrade pass...
+
+
+/////////////////stetho;47272b0d73a5fb47d4cbb9fe2a57ab563ea84660/////////////////////
+use stetho#### not Guest#### which gets blocked by freenode :(
+
+
+/////////////////android-crop;3888d516fd37f3063c4891e7cc9faf0a6be3629a/////////////////////
+Formatting [skip ci]
+
+/////////////////DroidPlugin;c2b7f9d6599b407f3645df1f072829f386d48f14/////////////////////
+Fix(LoadAllPlugin): fix https://github.com/Qihoo360/DroidPlugin/issues/140
+
+
+/////////////////HomeMirror;6b57f2ef7b775c5968e717fcc0b7fc90189c9d9f/////////////////////
+Fixing crash with null provider
+
+
+/////////////////Android-Bootstrap;14e2e9ef420e31dd01315d1a5d8be8da0059c449/////////////////////
+fixed BootstrapProgressBarBrand not setting
+
+
+/////////////////uCrop;154b7f77bf171282d4898880b526447bc4342b6e/////////////////////
+log fix
+
+
+/////////////////android-volley;0aa7873db1048c41b279e4f216e4cf2ee35d0802/////////////////////
+tweak getCacheKey(), using original url, fix issues #78
+
+/////////////////ListViewAnimations;3bcbf2682b2012d404c83474fe7fe729fef14eea/////////////////////
+Fixing StickyListHeadersListViewWrapper.getChildAt()
+
+
+/////////////////SimplifyReader;9312ae85998a9f20dc1b11889de5b0760dbcb81b/////////////////////
+Downgrade `com.github.chrisbanes.photoview:library` from 1.2.3 to 1.2.2.
+
+
+/////////////////SmartTabLayout;d7643dc6b5c0f87d1d1bf76e09f3c8052dc26c7e/////////////////////
+Callback onTabClick before change tab.
+
+
+/////////////////Android-Bootstrap;faf6019f72b7585e6c0d8c010d740085f322bd06/////////////////////
+BootstrapProgressBar renamed xml definition progress to bootstrapProgress
+
+
+/////////////////DroidPlugin;708df95fcfd3521875f2a2394ac213c9358898cd/////////////////////
+Fix（PluginCallBack）：isShortcutProxyActivity
+
+
+/////////////////SystemBarTint;a790e96f3f440478a5c5b76f2858bb7adeeb1ee1/////////////////////
+new action/status bar colour
+
+/////////////////actor-platform;bcb8f4dc136e8841e01aa0282c89751f456e28d2/////////////////////
+feat(core): add json content description
+
+
+/////////////////Android-Bootstrap;fb32ecaaaadd1af537a08cf7d581f1b1f739694a/////////////////////
+fix #192
+
+
+/////////////////Apktool;9fcd7e4d366881a85c07c76682c60cb4cb5f4a9b/////////////////////
+style: grammar for "decompile" vs "disassemble"
+
+
+/////////////////zxing;4199e41fb8bb7fa39d3827f7c892f3611d2fb654/////////////////////
+Default to allow focusing in continuous-picture mode (#1186)
+
+* This is supported on almost all devices now, and they handle this pretty
+   well. Additionally, this workarounds a bug in some devices which auto mode
+   will hang forever for unknown reason.
+
+/////////////////acra;796f45d14550420d66e1ed28daefeb45874d195f/////////////////////
+Call indexof on correct string in limiter. Fixes #703
+
+
+/////////////////junit4;660a37320badfd6749f453201aeef8f5b15da890/////////////////////
+Add explicit type parameters for JDK 5
+
+The code did not compile with JDK 5 before.
+
+
+/////////////////spring-boot;c2df1afff0a11ffe927e6bc08b1e11387360afd4/////////////////////
+Start building against Spring Integration 5.2.0 snapshots
+
+See gh-18254
+
+
+/////////////////AndroidImageSlider;46aafafc6757e06435849dabeafa0699c6463f87/////////////////////
+new demo
+
+
+/////////////////AndroidSwipeLayout;a8b4b08c469621de6d35322ec48b3e48c3dd998a/////////////////////
+Merging changes from master
+
+
+/////////////////android-UniversalMusicPlayer;7a260f50e6f26082427daca9ab7fe054d0796c62/////////////////////
+Replace deprecated constants by new constants of Exoplayer.
+
+
+/////////////////FadingActionBar;d15e26ef296964d4d844af341a560cb698ab8944/////////////////////
+use getHeight instead of getMeasuredHeight
+
+
+/////////////////k-9;ddc0f25bbb2d26fa8c8e0145e692f5d06b1097b8/////////////////////
+Changed activity title to 'Manage folders'
+
+
+/////////////////k-9;2c5f32d6d3709e769babfe61a4f94e57180ef4e5/////////////////////
+Use Resources.getString() instead of Fragment.getString()
+
+
+/////////////////SmartTabLayout;92d34fc8144c6a45676e9724cc6f0ba427071ee9/////////////////////
+Update android support library version to 22.2.1
+
+
+/////////////////ion;c5a3c864fd49c2bd149de0d65b265679426ff4ad/////////////////////
+disable spdy, it is deprecated for http2.
+
+
+/////////////////VitamioBundle;c2dc06ebc8edd432e25006bb068b935ed0368314/////////////////////
+Bump to version 4.1.0
+
+
+/////////////////AndroidSwipeLayout;14c3135029552f1547c0bf4f2cb0486a308bc681/////////////////////
+setting sample1 to laydown mode
+
+
+/////////////////InstaMaterial;77dd815b3bd497a20a6732d9a0ce4fff1301fbb7/////////////////////
+fixed bad resource for avatar in comments
+
+
+/////////////////StickyListHeaders;750b4325d7350bbce43d79f01b63afff794712b8/////////////////////
+Make sure to clear sticky header when at top
+
+/////////////////android-classyshark;13f87219b2b1466f73ba4121e630d9c58e2c2735/////////////////////
+documentation fixes
+
+
+/////////////////AndroidViewAnimations;5f51df3be69fc4a017ebbdd051266c3006a28221/////////////////////
+SwingAnimator issue
+
+Swing animation should start from zero
+
+/////////////////coursera-android;586975c5bb8060ec43fb77a02ab26dafda4db962/////////////////////
+fixed typo
+
+/////////////////android-classyshark;391f1d22542914de5c75544a46698a1ace9e0a67/////////////////////
+condition fix
+
+
+/////////////////RxJava-Android-Samples;e83b02e1cf3b068f4095c90c5ff978aaa3b7e1a3/////////////////////
+fix: update rotation persist changes
+
+
+/////////////////swagger-core;3978220414384121c32e46c11237beded383cfbe/////////////////////
+fix #3088 - fixes boolean @type annotation
+
+
+/////////////////DroidPlugin;a740ea545162aeb3dc75c8ea3bf0409af6d1cd8f/////////////////////
+Fix(fixWindowManagerHook):  fix bug IWindowManagerBinderHook@fixWindowManagerHook
+
+https://github.com/Qihoo360/DroidPlugin/issues/144
+
+
+/////////////////stetho;19ffdf6765bbc7040172a3b8f6e0c12dc3d13b70/////////////////////
+fix payloadData length error
+
+fix payloadData length error when it's length is more than 0xffff
+
+/////////////////circular-progress-button;f865b0c69bf79d164ddc85a0516626441ca60bea/////////////////////
+The icon error should show even if the complete icon is incorrect, however if there's no complete icon the icon error shouldn't show
+
+
+/////////////////Apktool;bae5aab78afd49e91bfdeb3cff527f974f2f858a/////////////////////
+fix: use only long builder for "--only-main-classes"
+
+
+/////////////////greenDAO;884d7a3c57614326183cb91808ffd2594f1f8d58/////////////////////
+Actually get writable db with getEncryptedWritableDb.
+
+- Closes https://github.com/greenrobot/greenDAO/issues/572.
+
+
+/////////////////async-http-client;c16a06dee1954c565dadad1b6b427c8e2084a04f/////////////////////
+Hit github.com as Travis' infrastructure's DNS seems to be buggy
+
+
+/////////////////RxJava-Android-Samples;035836185f60faa62427742a96f692bad8d35e99/////////////////////
+fix: use concatEager vs concat courtesy Jake's suggestion
+
+ 🙏 [Jedi
+Jake](https://twitter.com/JakeWharton/status/786362280535592961).
+
+
+/////////////////spring-boot;e5f26a4f1abdb9234cc7b253ef43de2c2131fef4/////////////////////
+Rename test resource to be Windows-friendly
+
+
+
+Nopol:if_condition_upd_shallow
+/////////////////DroidPlugin;a740ea545162aeb3dc75c8ea3bf0409af6d1cd8f/////////////////////
+Fix(fixWindowManagerHook):  fix bug IWindowManagerBinderHook@fixWindowManagerHook
+
+https://github.com/Qihoo360/DroidPlugin/issues/144
+
+
+/////////////////CircleImageView;f98b11c3867b5ad28b66717e6149fe4e86fe6f8b/////////////////////
+Tweak border drawing condition
+
+
+/////////////////DroidPlugin;28e4fdac9fe47806924841a87952a9c5f4049dc7/////////////////////
+fix (IGraphicsStatsBinderHook): IGraphicsStatsBinderHook only for VERSION_CODES.LOLLIPOP_MR1 newer
+
+
+
+JGenProg:any_statement_deep
+/////////////////coursera-android;849a67c33f680b498a2c425818e54644f53c443e/////////////////////
+Fix package naming
+
+/////////////////NumberProgressBar;dc05dfd710494db69f968a80b1744e5660903c80/////////////////////
+fixed wrong UnreachedBarColor #25
+
+
+/////////////////greenDAO;884d7a3c57614326183cb91808ffd2594f1f8d58/////////////////////
+Actually get writable db with getEncryptedWritableDb.
+
+- Closes https://github.com/greenrobot/greenDAO/issues/572.
+
+
+/////////////////coursera-android;ea5ee473e484562f02128568a7fd68c0a69d2acc/////////////////////
+Fix package naming
+
