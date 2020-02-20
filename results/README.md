@@ -1,4 +1,4 @@
-## Clarifications about selected-commits.csv file
+# Clarifications about selected-commits.csv file
 
 "selected-commits.csv" file contains results of a manual evaluation on the precision of Coming. 
 The meaning of scores in the "evaluation result" column is determined according to the following table:
@@ -15,13 +15,54 @@ Two clarifying points:
 AST changes in a patch in the search space of X.
 2.	We suppose that repair tools extract ingredients from the same file as where the change is made.
 
-### The assumed functionality of repair tools
+## The assumed functionality of repair tools
 
-#### JGenProg
+### Arja
 **Strategies:**
 1.	A statement is removed.
 2.  A statement is replaced by a new statement.
 3.  A new statement is added.
 
 **Ingredients:**
-The new statement is a copy of an existing statement.
+The new statement is copy of an existing statement where the variables, methods called, and literals can be replaced by ingredients from the tool scope (i.e. changed file).
+
+### Cardumen
+**Strategies**
+1.	An expression is replaced by a new expression.
+
+**Ingredients**
+The new expression should be a copy of an existing expression where the variables and literals can be replaced by ingredients from the tool scope (i.e. changed file).
+
+### Elixir
+Section III.B of [this paper](https://ieeexplore.ieee.org/document/8115675).
+
+### JGenProg
+**Strategies:**
+1.	A statement is removed.
+2.  A statement is replaced by a new statement.
+3.  A new statement is added.
+
+**Ingredients:**
+The new statement is a copy of an existing statement. Note that a statement can be a block containing multiple substatements.
+
+### JKali
+**Strategies:**
+1.	A statement is removed.
+2.  The condition of an if statement is change to true or false.
+3.  A return statement is added. The return value should be either null, 0, or -1.
+
+### JMutRepair
+**Strategies:**
+1.	The operator of a binary if condition is changed.
+2.	The operator of a unary if condition is changed.
+
+### NPEfix
+Table 1 of [this paper](https://arxiv.org/abs/1512.07423).
+
+### Nopol
+**Strategies:**
+1.	The condition of an if statement is replaced by a new one.
+2.	A statement is wrapped insided an if statement.
+
+**Ingredients**
+In both strategies, the variables, literals, and method calls used in the if condition should be selected from the tool scope (i.e. changed file).
