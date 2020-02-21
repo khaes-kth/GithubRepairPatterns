@@ -1,4 +1,4 @@
-# Clarifications about selected-commits.csv file
+# Clarifications about results/selected-commits.csv file
 
 "selected-commits.csv" file contains results of a manual evaluation on the precision of Coming. 
 The meaning of scores in the "evaluation result" column is determined according to the following table:
@@ -66,3 +66,16 @@ Table 1 of [this paper](https://arxiv.org/abs/1512.07423).
 
 **Ingredients**
 In both strategies, the variables, literals, and method calls used in the if condition should be selected from the tool scope (i.e. changed file).
+
+# Review Process
+The manual experiment for measuring the precision should be performed according to these steps:
+1.	Downloed the CSV file.
+2.	Open the commit links for your target tool (X) one by one.
+3.	For each commit:
+	1.	Suppose that repair tool X is executed on the old source code and S is the set of its search space.
+	2.	Check if the AST of the new source code is equal to the AST of any members of S.
+		1.	If yes: put 2 in the evaluation result cell of the corresponding row.
+		2.	If no but could have been with some small changes: put 1 in the evaluation result cell of the corresponding row.
+		3.	If no, not at all: put 0 in the evaluation result cell of the corresponding row.
+	3.	If you have any comments about this commit, write it in the comment cell.
+4.	Save the modified csv file and create a pull request. There might be some conflicts, don't worry; we will fix it later.
