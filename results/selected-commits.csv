@@ -89,36 +89,36 @@ Elixir,https://github.com/openmrs/openmrs-module-htmlformentry/commit/33ba9c4c63
 Elixir,https://github.com/ctripcorp/apollo/commit/399b78dcf3470331bcd554cd8aad47eee25ffb9c,,
 Elixir,https://github.com/spring-projects/spring-data-jpa/commit/9381d6a5a3469f9c10195fb68617d300d6057531,,
 Elixir,https://github.com/swagger-api/swagger-codegen/commit/f9ed8a9a084773d4bc29cf2623228c58ac8ef692,,
-JGenProg,https://github.com/swagger-api/swagger-codegen/commit/bd5eb7ace39123389184a103cb404ace51cc5d79,,
-JGenProg,https://github.com/lettuce-io/lettuce-core/commit/34a8668a36cdbb8fe4a84ffc6e25d9c7d5328440,,
-JGenProg,https://github.com/dhis2/dhis2-core/commit/31bc55b702e259720fc30f9e1f1c7d7aa80ebbd5,,
-JGenProg,https://github.com/EnMasseProject/enmasse/commit/5fb0bb0492fcc102838883df8d3745b8e4929991,,
-JGenProg,https://github.com/EnMasseProject/enmasse/commit/4df023e19f1176b2809d1c1a392820a16b42e67f,,
-JGenProg,https://github.com/ctripcorp/apollo/commit/f92b06a3e19125ac1a39bf0503bcc0cd96e015d1,,
-JGenProg,https://github.com/linkedin/pinot/commit/b98fcd1c3eb3afd7055e06d0606791a2be492134,,
-JGenProg,https://github.com/HubSpot/Baragon/commit/16e366252ca5c3b20b73cf4e466e84619e7d7224,,
-JGenProg,https://github.com/dhis2/dhis2-core/commit/07eab9612a9b4ac3acf2a1d12520da980568463d,,
-JGenProg,https://github.com/EnMasseProject/enmasse/commit/68ecc5fba1132237e44aba32305c80be126371af,,
-JGenProg,https://github.com/AxonFramework/AxonFramework/commit/c557ca27e4237764f19c460ea043cdb2f2b5e130,,
-JGenProg,https://github.com/EnMasseProject/enmasse/commit/37f274d0f557fbf141c25f0cb431480b357aaf4d,,
-JGenProg,https://github.com/SonarOpenCommunity/sonar-cxx/commit/2bd6ee55071234096d16fbfa4f5d29d06f0921d3,,
-JGenProg,https://github.com/lettuce-io/lettuce-core/commit/4d0fa1984ac680797865289d91f20b432bfcc978,,
-JGenProg,https://github.com/dhis2/dhis2-core/commit/f1c6925c5eccbdbdcfae9ed3e6bfbe58a9ecc900,,
-JGenProg,https://github.com/Activiti/Activiti/commit/06be4bff9ca99e3f17541a72914fbd45116716dd,,
-JGenProg,https://github.com/swagger-api/swagger-codegen/commit/4b7233063c7461f36f78ddd1467eff32e19d207e,,
-JGenProg,https://github.com/swagger-api/swagger-codegen/commit/75714ac518fdf0cdd5fa9bdafa1b06835d7752c4,,
-JGenProg,https://github.com/brettwooldridge/HikariCP/commit/18ab21ed5821873d4b2f10c9cca06d93886bc045,,
-JGenProg,https://github.com/brettwooldridge/HikariCP/commit/63bcfe2cf00924b6eda37c4af0449ef9f34b9c31,,
-JGenProg,https://github.com/EnMasseProject/enmasse/commit/472c4d05811a0af78f09bb6f4c47e93cf3b4d23d,,
-JGenProg,https://github.com/traccar/traccar/commit/4d29679dec4508d28af7651cdfd130e5a218b387,,
-JGenProg,https://github.com/debezium/debezium/commit/772977f391d97fc7fa83ad2245f9d9285a3df832,,
-JGenProg,https://github.com/openmrs/openmrs-module-webservices.rest/commit/baebda151aeffee2f9a81307709e1a3ae227d4a6,,
-JGenProg,https://github.com/SonarOpenCommunity/sonar-cxx/commit/c56d5fa78a98261f480a9b7397cca5d6e6dfba8d,,
-JGenProg,https://github.com/apache/incubator-tamaya/commit/7a32a1a8b8b220ae187df532cc1758549af22de8,,
-JGenProg,https://github.com/albfernandez/GDS-PMD-Security-Rules/commit/1d4eedd301ce347228e4048ebecf826dec63fce9,,
-JGenProg,https://github.com/dungba88/libra/commit/227f9d699edf86432c0b0de9410e55798f7dbfb3,,
-JGenProg,https://github.com/molgenis/molgenis/commit/1fcaa0acf38a05a6b1f1ae4f616f4ddb6e9d2ff1,,
-JGenProg,https://github.com/brettwooldridge/HikariCP/commit/3869ed0edbdee1d1d7e592a29816885dbc29ba54,,
+JGenProg,https://github.com/swagger-api/swagger-codegen/commit/bd5eb7ace39123389184a103cb404ace51cc5d79,2,
+JGenProg,https://github.com/lettuce-io/lettuce-core/commit/34a8668a36cdbb8fe4a84ffc6e25d9c7d5328440,2, but is likely not a bugfix
+JGenProg,https://github.com/dhis2/dhis2-core/commit/31bc55b702e259720fc30f9e1f1c7d7aa80ebbd5,2, but is likely not a bugfix
+JGenProg,https://github.com/EnMasseProject/enmasse/commit/5fb0bb0492fcc102838883df8d3745b8e4929991,2,the change is in a test file
+JGenProg,https://github.com/EnMasseProject/enmasse/commit/4df023e19f1176b2809d1c1a392820a16b42e67f,2, deletion
+JGenProg,https://github.com/ctripcorp/apollo/commit/f92b06a3e19125ac1a39bf0503bcc0cd96e015d1,2, kali patch, deletion
+JGenProg,https://github.com/linkedin/pinot/commit/b98fcd1c3eb3afd7055e06d0606791a2be492134,2, but change is in a test file
+JGenProg,https://github.com/HubSpot/Baragon/commit/16e366252ca5c3b20b73cf4e466e84619e7d7224,2,
+JGenProg,https://github.com/dhis2/dhis2-core/commit/07eab9612a9b4ac3acf2a1d12520da980568463d,2,
+JGenProg,https://github.com/EnMasseProject/enmasse/commit/68ecc5fba1132237e44aba32305c80be126371af,2,change in test file
+JGenProg,https://github.com/AxonFramework/AxonFramework/commit/c557ca27e4237764f19c460ea043cdb2f2b5e130,2,deletion but not a bug fix
+JGenProg,https://github.com/EnMasseProject/enmasse/commit/37f274d0f557fbf141c25f0cb431480b357aaf4d,0,seems to be a formatting change
+JGenProg,https://github.com/SonarOpenCommunity/sonar-cxx/commit/2bd6ee55071234096d16fbfa4f5d29d06f0921d3,2,remove a short if block
+JGenProg,https://github.com/lettuce-io/lettuce-core/commit/4d0fa1984ac680797865289d91f20b432bfcc978,2,literal change in a test file
+JGenProg,https://github.com/dhis2/dhis2-core/commit/f1c6925c5eccbdbdcfae9ed3e6bfbe58a9ecc900,2,deletion removes dead code 
+JGenProg,https://github.com/Activiti/Activiti/commit/06be4bff9ca99e3f17541a72914fbd45116716dd,2,
+JGenProg,https://github.com/swagger-api/swagger-codegen/commit/4b7233063c7461f36f78ddd1467eff32e19d207e,2,deletion
+JGenProg,https://github.com/swagger-api/swagger-codegen/commit/75714ac518fdf0cdd5fa9bdafa1b06835d7752c4,2,
+JGenProg,https://github.com/brettwooldridge/HikariCP/commit/18ab21ed5821873d4b2f10c9cca06d93886bc045,2,addition of method call
+JGenProg,https://github.com/brettwooldridge/HikariCP/commit/63bcfe2cf00924b6eda37c4af0449ef9f34b9c31,2, removal of if block
+JGenProg,https://github.com/EnMasseProject/enmasse/commit/472c4d05811a0af78f09bb6f4c47e93cf3b4d23d,2, deletion identical as another one above
+JGenProg,https://github.com/traccar/traccar/commit/4d29679dec4508d28af7651cdfd130e5a218b387,2,
+JGenProg,https://github.com/debezium/debezium/commit/772977f391d97fc7fa83ad2245f9d9285a3df832,2,kali patch
+JGenProg,https://github.com/openmrs/openmrs-module-webservices.rest/commit/baebda151aeffee2f9a81307709e1a3ae227d4a6,2,addition of method call
+JGenProg,https://github.com/SonarOpenCommunity/sonar-cxx/commit/c56d5fa78a98261f480a9b7397cca5d6e6dfba8d,2,kali patch
+JGenProg,https://github.com/apache/incubator-tamaya/commit/7a32a1a8b8b220ae187df532cc1758549af22de8,2,deletion of if block
+JGenProg,https://github.com/albfernandez/GDS-PMD-Security-Rules/commit/1d4eedd301ce347228e4048ebecf826dec63fce9,2,addition of method call
+JGenProg,https://github.com/dungba88/libra/commit/227f9d699edf86432c0b0de9410e55798f7dbfb3,2,if the full added block is a valid ingredient
+JGenProg,https://github.com/molgenis/molgenis/commit/1fcaa0acf38a05a6b1f1ae4f616f4ddb6e9d2ff1,2,string literal change in a return
+JGenProg,https://github.com/brettwooldridge/HikariCP/commit/3869ed0edbdee1d1d7e592a29816885dbc29ba54,2,deletion in a test
 JKali,https://github.com/EnMasseProject/enmasse/commit/52f7fa1c735a1666bcedfc921f0a29a40c1ce91d,,
 JKali,https://github.com/molgenis/molgenis/commit/1524a75efc0f3871d7f9e2da6c7887618f3e83c8,,
 JKali,https://github.com/apache/incubator-dubbo/commit/d0f7c05abb54f02584587a41d19636c35d3d9ab2,,
