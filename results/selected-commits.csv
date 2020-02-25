@@ -182,63 +182,63 @@ JMutRepair,https://github.com/molgenis/molgenis/commit/f9df63b939e4c10edcf1797a3
 JMutRepair,https://github.com/HubSpot/Baragon/commit/de7bd79fd4ed3f63c83587dcf884f775ccbd2a98,,
 JMutRepair,https://github.com/brettwooldridge/HikariCP/commit/4a1a7785fe4b809277faafb9b7dd65a7ecec62fa,,
 JMutRepair,https://github.com/classgraph/classgraph/commit/8a39a24d955078038f57710d4d175be79589b703,,
-Nopol,https://github.com/org-tigris-jsapar/jsapar/commit/d8bdd63967722312519e8a3c0a4eac46d91468a2,,
-Nopol,https://github.com/apache/incubator-dubbo/commit/068a7d99e79b4ef3ff5d75342e2f847bd81f2c76,,
-Nopol,https://github.com/vkostyukov/la4j/commit/ecf6b63e657be23543a422c44ac0ee3ce10695a8,,
-Nopol,https://github.com/classgraph/classgraph/commit/8aa0b2bbd79d3028d6d78b7892a935a7336fc6e8,,
-Nopol,https://github.com/debezium/debezium/commit/29a7043fe34624287d3aaafa4a9a09f5989c4e08,,
-Nopol,https://github.com/apache/incubator-servicecomb-java-chassis/commit/d469ef44d1e733abc67a395a5070b55bad47f224,,
-Nopol,https://github.com/swagger-api/swagger-codegen/commit/733e19c113b3cf77be28489ae9bc07b425cdd053,,
-Nopol,https://github.com/linkedin/pinot/commit/0e8bf4f6dca6167f67ddf03234f62197e9b4f937,,
-Nopol,https://github.com/HubSpot/Baragon/commit/d0a6756084e69f1548a92ee1fe8dc0f178bbfade,,
-Nopol,https://github.com/pippo-java/pippo/commit/b0e60a2d3a73c0020cbbf80bcd3d9e9aa0990099,,
-Nopol,https://github.com/AxonFramework/AxonFramework/commit/aa9548ad607a65ea2c775120b4ce5725c0af81d3,,
-Nopol,https://github.com/SonarOpenCommunity/sonar-cxx/commit/db2a7b6d21bd659dc81f61a1ac997a76f4b41dc7,,
-Nopol,https://github.com/apache/incubator-dubbo/commit/ef0bafccb850181672e210692f0d57e92b335d32,,
-Nopol,https://github.com/brettwooldridge/HikariCP/commit/bc450c6c25fe7b7ef44c1663deb84cdcf5e46311,,
-Nopol,https://github.com/brettwooldridge/HikariCP/commit/fa26ccc71963e6c7ff74c4703acef05447afe7c2,,
-Nopol,https://github.com/openmrs/openmrs-module-htmlformentry/commit/310a6958f861e48fbea3e02343841f69aa49ff0c,,
-Nopol,https://github.com/traccar/traccar/commit/cad3601db6cacc090783f7e53dafcc71717cb196,,
-Nopol,https://github.com/openmrs/openmrs-module-htmlformentry/commit/554482c076e311240f669ba6e7a7f899776abd5e,,
-Nopol,https://github.com/pippo-java/pippo/commit/91c89453a3820a4ae24a91fecab90928d8f9934f,,
-Nopol,https://github.com/traccar/traccar/commit/8b17694d807799c1311fd32e38925f9f5fd0c5a1,,
-Nopol,https://github.com/brettwooldridge/HikariCP/commit/03a44b7ab5426a32c0a699a9bb21761585e6ae7c,,
-Nopol,https://github.com/swagger-api/swagger-codegen/commit/a6e4203cd53109c2aaec412be3b9a503d6b2f91f,,
-Nopol,https://github.com/traccar/traccar/commit/1e6448f0e25fb95b35b23a67517274481b11ca9e,,
-Nopol,https://github.com/SonarOpenCommunity/sonar-cxx/commit/fce0c9102c4ced0d127b1cd3ba7dbe8a4d2dff04,,
-Nopol,https://github.com/AxonFramework/AxonFramework/commit/7d85113ddb30545f2d0040db92b38e8f6441ce9a,,
-Nopol,https://github.com/rkonovalov/jsonignore/commit/e45c1702868f641c9ba03a79b31a874bf045d678,,
-Nopol,https://github.com/molgenis/molgenis/commit/d61c5c726b4898fd81ec12119dc1cee12d04f611,,
-Nopol,https://github.com/HubSpot/Baragon/commit/5762cd03f719015471d41b0e6e40a167773ca39c,,
-Nopol,https://github.com/societe-generale/ci-droid-tasks-consumer/commit/eb3ff40936bb3e4c3b1c60a0c85fb5f5f584f7e9,,
-Nopol,https://github.com/brettwooldridge/HikariCP/commit/bbac41d3e97f3de2c0175cf166ed2a980bae0e5b,,
-NPEfix,https://github.com/INRIA/spoon/commit/0c36243c58d56ee4bd42ab25989a326eeb546450,,
-NPEfix,https://github.com/cpesch/RouteConverter/commit/737016d222bd1873a4633ab6664aabcd3f905ba6,,
-NPEfix,https://github.com/linkedin/pinot/commit/bdac272fbe110ba920762a57f78fc4ddc394689b,,
-NPEfix,https://github.com/cpesch/RouteConverter/commit/17ae5152a66170ba352b754f8cbf7d0997c0ce62,,
-NPEfix,https://github.com/classgraph/classgraph/commit/eee2cbc474c4681ca239d0c7f9272d9bcb6d24b9,,
-NPEfix,https://github.com/debezium/debezium/commit/5f3902d2401460112728962d0f64718f33afc6a1,,
-NPEfix,https://github.com/linkedin/pinot/commit/4807a2fb9c1fdd0de65bc2bbad607fb5c8156346,,
-NPEfix,https://github.com/swagger-api/swagger-codegen/commit/fc4fce373184e5ee6419a66fd274997290578c35,,
-NPEfix,https://github.com/square/javapoet/commit/2288620db87cb0a134bf61ae277b48f28895271a,,
-NPEfix,https://github.com/dhis2/dhis2-core/commit/d4dbc4787e5f35a6152254f0c98204e371fb805e,,
-NPEfix,https://github.com/cpesch/RouteConverter/commit/e517d0a7c4f486f9f832edd2b8b351dfc889d150,,
-NPEfix,https://github.com/classgraph/classgraph/commit/4950a18f753b8085dfd7244c009318029762e16b,,
-NPEfix,https://github.com/classgraph/classgraph/commit/9841bdedb9ec00d92b9558d64ea29c025e630806,,
-NPEfix,https://github.com/linkedin/pinot/commit/a7be58b2de853d8caa7e63242165ac910753abb6,,
-NPEfix,https://github.com/apache/incubator-dubbo/commit/02b636a08512bc9e614dff6ab450478616b9a4d2,,
-NPEfix,https://github.com/apache/incubator-tamaya/commit/bb06268543432ad73a9b9bb99402a7ebfa890848,,
-NPEfix,https://github.com/swagger-api/swagger-codegen/commit/b61d3b2914ff44d3e33b40ba13bb14b1f5939d58,,
-NPEfix,https://github.com/swagger-api/swagger-codegen/commit/ae4b4979a71951e60b19fd51d5d040726f197e19,,
-NPEfix,https://github.com/linkedin/pinot/commit/beed0641c74767c9b9483738da6030dd41389af1,,
-NPEfix,https://github.com/traccar/traccar/commit/b5aa84f094b04ce17fb12fb42f5b904345094ca5,,
-NPEfix,https://github.com/Activiti/Activiti/commit/21a1ca49b2b541603a8defd3eba5b0277ea8bb69,,
-NPEfix,https://github.com/INRIA/spoon/commit/24e76723f1e9620e623d678c5137533daf956629,,
-NPEfix,https://github.com/dhis2/dhis2-core/commit/cc52930d89766d3bb6114b4940c4dcf5bf4e8d99,,
-NPEfix,https://github.com/classgraph/classgraph/commit/218977d55deddcf39e5463e1b411ae7a1a4e3765,,
-NPEfix,https://github.com/vitorenesduarte/VCD-java-client/commit/8ab15f903cc86e1d98db17511e24e79936b3be52,,
-NPEfix,https://github.com/swagger-api/swagger-codegen/commit/7de1eeb987b9ae04460f78fe86f32a1bd4f01be7,,
-NPEfix,https://github.com/Activiti/Activiti/commit/e05e40e3ec4c7befa63d3467ed4e221ca6cf5ef6,,
-NPEfix,https://github.com/Activiti/Activiti/commit/dc56f2ec75132fc1c04f75ccbae666dfa49837f5,,
-NPEfix,https://github.com/cpesch/RouteConverter/commit/4a570e566b16f5b2ce1334e57315ad2ad9a85a81,,
-NPEfix,https://github.com/molgenis/molgenis/commit/e1d87136dbd342c7e826b9de852117f49d431ae2,,
+Nopol,https://github.com/org-tigris-jsapar/jsapar/commit/d8bdd63967722312519e8a3c0a4eac46d91468a2,0,Too many statements
+Nopol,https://github.com/apache/incubator-dubbo/commit/068a7d99e79b4ef3ff5d75342e2f847bd81f2c76,2,Dynamoth
+Nopol,https://github.com/vkostyukov/la4j/commit/ecf6b63e657be23543a422c44ac0ee3ce10695a8,2,
+Nopol,https://github.com/classgraph/classgraph/commit/8aa0b2bbd79d3028d6d78b7892a935a7336fc6e8,2,
+Nopol,https://github.com/debezium/debezium/commit/29a7043fe34624287d3aaafa4a9a09f5989c4e08,2,
+Nopol,https://github.com/apache/incubator-servicecomb-java-chassis/commit/d469ef44d1e733abc67a395a5070b55bad47f224,2,
+Nopol,https://github.com/swagger-api/swagger-codegen/commit/733e19c113b3cf77be28489ae9bc07b425cdd053,0,Change in a non java file
+Nopol,https://github.com/linkedin/pinot/commit/0e8bf4f6dca6167f67ddf03234f62197e9b4f937,0,Too many statements and method call in condition
+Nopol,https://github.com/HubSpot/Baragon/commit/d0a6756084e69f1548a92ee1fe8dc0f178bbfade,0,ternary expression not supported
+Nopol,https://github.com/pippo-java/pippo/commit/b0e60a2d3a73c0020cbbf80bcd3d9e9aa0990099,0,only one new import
+Nopol,https://github.com/AxonFramework/AxonFramework/commit/aa9548ad607a65ea2c775120b4ce5725c0af81d3,2,Dynamoth
+Nopol,https://github.com/SonarOpenCommunity/sonar-cxx/commit/db2a7b6d21bd659dc81f61a1ac997a76f4b41dc7,2,
+Nopol,https://github.com/apache/incubator-dubbo/commit/ef0bafccb850181672e210692f0d57e92b335d32,1,expression too compex 
+Nopol,https://github.com/brettwooldridge/HikariCP/commit/bc450c6c25fe7b7ef44c1663deb84cdcf5e46311,1,Constant not in the search space
+Nopol,https://github.com/brettwooldridge/HikariCP/commit/fa26ccc71963e6c7ff74c4703acef05447afe7c2,2,not sure if the variable would be used
+Nopol,https://github.com/openmrs/openmrs-module-htmlformentry/commit/310a6958f861e48fbea3e02343841f69aa49ff0c,2,Dynamoth
+Nopol,https://github.com/traccar/traccar/commit/cad3601db6cacc090783f7e53dafcc71717cb196,2,"Dynamoth, nopol does not support != null"
+Nopol,https://github.com/openmrs/openmrs-module-htmlformentry/commit/554482c076e311240f669ba6e7a7f899776abd5e,2,"Dynamoth, nopol does not support != null"
+Nopol,https://github.com/pippo-java/pippo/commit/91c89453a3820a4ae24a91fecab90928d8f9934f,2,"Dynamoth, nopol does not support != null"
+Nopol,https://github.com/traccar/traccar/commit/8b17694d807799c1311fd32e38925f9f5fd0c5a1,2,"Dynamoth, nopol does not support != null"
+Nopol,https://github.com/brettwooldridge/HikariCP/commit/03a44b7ab5426a32c0a699a9bb21761585e6ae7c,2,"Dynamoth, nopol does not support method call"
+Nopol,https://github.com/swagger-api/swagger-codegen/commit/a6e4203cd53109c2aaec412be3b9a503d6b2f91f,1,does not support instanceof
+Nopol,https://github.com/traccar/traccar/commit/1e6448f0e25fb95b35b23a67517274481b11ca9e,0,too compex 
+Nopol,https://github.com/SonarOpenCommunity/sonar-cxx/commit/fce0c9102c4ced0d127b1cd3ba7dbe8a4d2dff04,0,Change in a non java file
+Nopol,https://github.com/AxonFramework/AxonFramework/commit/7d85113ddb30545f2d0040db92b38e8f6441ce9a,2,"Dynamoth, nopol does not support method call"
+Nopol,https://github.com/rkonovalov/jsonignore/commit/e45c1702868f641c9ba03a79b31a874bf045d678,0,Too many statements
+Nopol,https://github.com/molgenis/molgenis/commit/d61c5c726b4898fd81ec12119dc1cee12d04f611,2,"Dynamoth, nopol does not support method call"
+Nopol,https://github.com/HubSpot/Baragon/commit/5762cd03f719015471d41b0e6e40a167773ca39c,1,too compex 
+Nopol,https://github.com/societe-generale/ci-droid-tasks-consumer/commit/eb3ff40936bb3e4c3b1c60a0c85fb5f5f584f7e9,0,Too many statements
+Nopol,https://github.com/brettwooldridge/HikariCP/commit/bbac41d3e97f3de2c0175cf166ed2a980bae0e5b,0,Too many statements
+NPEfix,https://github.com/INRIA/spoon/commit/0c36243c58d56ee4bd42ab25989a326eeb546450,2,
+NPEfix,https://github.com/cpesch/RouteConverter/commit/737016d222bd1873a4633ab6664aabcd3f905ba6,0,no check on primitive
+NPEfix,https://github.com/linkedin/pinot/commit/bdac272fbe110ba920762a57f78fc4ddc394689b,0,
+NPEfix,https://github.com/cpesch/RouteConverter/commit/17ae5152a66170ba352b754f8cbf7d0997c0ce62,2,
+NPEfix,https://github.com/classgraph/classgraph/commit/eee2cbc474c4681ca239d0c7f9272d9bcb6d24b9,0,
+NPEfix,https://github.com/debezium/debezium/commit/5f3902d2401460112728962d0f64718f33afc6a1,1,statement at a different location
+NPEfix,https://github.com/linkedin/pinot/commit/4807a2fb9c1fdd0de65bc2bbad607fb5c8156346,0,Change in a non java file
+NPEfix,https://github.com/swagger-api/swagger-codegen/commit/fc4fce373184e5ee6419a66fd274997290578c35,0,
+NPEfix,https://github.com/square/javapoet/commit/2288620db87cb0a134bf61ae277b48f28895271a,2,
+NPEfix,https://github.com/dhis2/dhis2-core/commit/d4dbc4787e5f35a6152254f0c98204e371fb805e,0,
+NPEfix,https://github.com/cpesch/RouteConverter/commit/e517d0a7c4f486f9f832edd2b8b351dfc889d150,0,
+NPEfix,https://github.com/classgraph/classgraph/commit/4950a18f753b8085dfd7244c009318029762e16b,0,
+NPEfix,https://github.com/classgraph/classgraph/commit/9841bdedb9ec00d92b9558d64ea29c025e630806,2,
+NPEfix,https://github.com/linkedin/pinot/commit/a7be58b2de853d8caa7e63242165ac910753abb6,2,
+NPEfix,https://github.com/apache/incubator-dubbo/commit/02b636a08512bc9e614dff6ab450478616b9a4d2,1,statement at a different location
+NPEfix,https://github.com/apache/incubator-tamaya/commit/bb06268543432ad73a9b9bb99402a7ebfa890848,0,
+NPEfix,https://github.com/swagger-api/swagger-codegen/commit/b61d3b2914ff44d3e33b40ba13bb14b1f5939d58,0,Change in a non java file
+NPEfix,https://github.com/swagger-api/swagger-codegen/commit/ae4b4979a71951e60b19fd51d5d040726f197e19,2,
+NPEfix,https://github.com/linkedin/pinot/commit/beed0641c74767c9b9483738da6030dd41389af1,0,
+NPEfix,https://github.com/traccar/traccar/commit/b5aa84f094b04ce17fb12fb42f5b904345094ca5,0,
+NPEfix,https://github.com/Activiti/Activiti/commit/21a1ca49b2b541603a8defd3eba5b0277ea8bb69,0,
+NPEfix,https://github.com/INRIA/spoon/commit/24e76723f1e9620e623d678c5137533daf956629,0,
+NPEfix,https://github.com/dhis2/dhis2-core/commit/cc52930d89766d3bb6114b4940c4dcf5bf4e8d99,0,
+NPEfix,https://github.com/classgraph/classgraph/commit/218977d55deddcf39e5463e1b411ae7a1a4e3765,2,
+NPEfix,https://github.com/vitorenesduarte/VCD-java-client/commit/8ab15f903cc86e1d98db17511e24e79936b3be52,2,
+NPEfix,https://github.com/swagger-api/swagger-codegen/commit/7de1eeb987b9ae04460f78fe86f32a1bd4f01be7,0,
+NPEfix,https://github.com/Activiti/Activiti/commit/e05e40e3ec4c7befa63d3467ed4e221ca6cf5ef6,0,
+NPEfix,https://github.com/Activiti/Activiti/commit/dc56f2ec75132fc1c04f75ccbae666dfa49837f5,0,
+NPEfix,https://github.com/cpesch/RouteConverter/commit/4a570e566b16f5b2ce1334e57315ad2ad9a85a81,0,
+NPEfix,https://github.com/molgenis/molgenis/commit/e1d87136dbd342c7e826b9de852117f49d431ae2,0,Change in a non java file
