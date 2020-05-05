@@ -1,0 +1,12 @@
+<pattern name="if_condition_upd_deep">
+
+    <entity id="1" type="If"/>
+    <entity id="2" type="*" role="condition">
+        <parent parentId="1" distance="1"/>
+    </entity>
+    <entity id="3" type="*">
+        <parent parentId="2" distance="1000000"/>
+    </entity>
+    <action entityId="3" type="*"/>
+
+</pattern>

@@ -1,0 +1,16 @@
+<pattern name="binary_1">
+
+	<entity id="4" type="If"/>
+
+    <entity id="1" type="BinaryOperator">
+    	<parent parentId="4" distance="5"/>
+    </entity>
+    <action entityId="1" type="UPD"/>
+
+    <!--
+        The check for the left and right operand being the same is applied in the filter of Repairability Analyser
+
+        Applying those checks in patterns files always results in some sort of corner cases
+        See this for more info: https://github.com/SpoonLabs/coming/issues/85#issuecomment-507180078
+    -->
+</pattern>
