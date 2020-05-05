@@ -19,6 +19,8 @@ AST changes in a patch in the search space of X.
 The jar file of the tool is included in the "tool" folder. RSCommitDetector is built on top of Coming and the name of the jar file is "coming.jar". 
 In this folder, "commands.sh" shows some sample commands for executing the tool.
 
+The source code of the tool is not available here to prevent from causing problems for the double-blind review.
+
 ## Output
 The "output" folder contains the zipped output of running RSCommitDetector on 72 repositories of Bears.
 
