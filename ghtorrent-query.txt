@@ -1,0 +1,4 @@
+#median number of commits per project for 1% largest projects: total number of projects=2419663
+select * from (select ROW_NUMBER() OVER (ORDER BY cnt desc) AS rownumber, cnt from ( select count(*)  as cnt, project_id  from `ghtorrent-bq.ght.project_commits`  where project_id in (
+  select id from `ghtorrent-bq.ght.projects` where language ="Java"
+) group by project_id order by cnt desc )) where rownumber=12098
