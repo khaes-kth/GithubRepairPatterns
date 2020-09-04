@@ -89,7 +89,7 @@ In both strategies, the variables, literals, and method calls used in the if con
 
 ## Determining Instances of Tools
 The manual experiment for measuring the precision should be performed according to these steps:
-=======
+
 1.	Downloed the CSV file.
 2.	Open the commit links for your target tool (X) one by one.
 3.	For each commit:
@@ -103,7 +103,7 @@ The manual experiment for measuring the precision should be performed according 
 
 ## Determining Bug-fix Commits
 The manual experiment for determining the bug-fix detected commits.
-=======
+
 1.	Download results/detected_checked_on_all.csv file.
 2.	Open commit links assigned to you.
 	1.	If it is a bug-fix commit, put "1" at the end of the line.
