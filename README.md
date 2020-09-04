@@ -81,6 +81,8 @@ Table 1 of [this paper](https://arxiv.org/abs/1512.07423).
 In both strategies, the variables, literals, and method calls used in the if condition should be selected from the tool scope (i.e. changed file).
 
 # Review Process
+
+## Determining Instances of Tools
 The manual experiment for measuring the precision should be performed according to these steps:
 1.	Downloed the CSV file.
 2.	Open the commit links for your target tool (X) one by one.
@@ -92,3 +94,9 @@ The manual experiment for measuring the precision should be performed according 
 		3.	If no, not at all: put 0 in the evaluation result cell of the corresponding row.
 	3.	If you have any comments about this commit, write it in the comment cell.
 4.	Save the modified csv file and create a pull request. There might be some conflicts, don't worry; we will fix it later.
+
+## Determining Bug-fix Commits
+1.	Download results/detected_checked_on_all.csv file.
+2.	Open commit links assigned to you.
+	1.	If it is a bug-fix commit, put "1" at the end of the line.
+	2.	If it is not a bug-fix commit, put "0" at the end of the line.
