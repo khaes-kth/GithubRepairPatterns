@@ -106,10 +106,12 @@ The manual experiment for determining the bug-fix detected commits.
 
 1.	Clone this repository.
 2.	Open the ["results/detected_checked_on_all.csv" file](https://github.com/khaes-kth/GithubRepairPatterns/blob/master/results/detected_checked_on_all.csv). Open the commit links assigned to you.
-	1.	If it is a bug-fix commit, put "1" at the end of the line.
-	2.	If it is not a bug-fix commit, put "0" at the end of the line.
+	1.	If it is a bug-fix commit, put "bug-fix" at the end of the line.
+	2.	If it is not a bug-fix commit, put "non-bug-fix" at the end of the line.
+	3.	If you are very confused and cannot decide about it, put "dont-know" at the end of the line.
 3.	Save the file and create a pull request with the updated version.
 
 Please have these points in mind while doing the analysis:
 1.	A *bug-fix commit* is a change to the behavior of the application, which only affects a small fraction of the input space, in order to align the actual behavior with the expected behavior.
 2.	To classify the commit as bug-fix or not, the annotator analyzes *both the diff and the message of the commit*. Examples of bug-fix commits are: 'fix bug #1234' (message), add a null check (code).
+3.	A fix in the test suite is not a bug-fix.
