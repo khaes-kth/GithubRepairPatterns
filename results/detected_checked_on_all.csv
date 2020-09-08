@@ -1,104 +1,104 @@
 project_name,commit_id,github_address,is_bug_fix
-albfernandez__GDS-PMD-Security-Rules,74f738f028b14d57eb48474a6f26b075aa7250b0,https://github.com/albfernandez/GDS-PMD-Security-Rules/commit/74f738f028b14d57eb48474a6f26b075aa7250b0,
-HubSpot__Baragon,4f239e0bbb9f4c8a26a1a5acaf99007c1f2cc525,https://github.com/HubSpot/Baragon/commit/4f239e0bbb9f4c8a26a1a5acaf99007c1f2cc525,
-apereo__java-cas-client,29165243a522c09c5466ca0ca86b63b46d27b60c,https://github.com/apereo/java-cas-client/commit/29165243a522c09c5466ca0ca86b63b46d27b60c,
-jgrapht__jgrapht,6b14c6c6658c270eaf63049336b781c478104463,https://github.com/jgrapht/jgrapht/commit/6b14c6c6658c270eaf63049336b781c478104463,
-jgrapht__jgrapht,c82eaa921828dd7925f5a02b09b36c91dcd6d525,https://github.com/jgrapht/jgrapht/commit/c82eaa921828dd7925f5a02b09b36c91dcd6d525,
-ctripcorp__apollo,40365e15677450e083ba0b9a4ad2364448a08c99,https://github.com/ctripcorp/apollo/commit/40365e15677450e083ba0b9a4ad2364448a08c99,
-openmrs__openmrs-module-webservices.rest,a13cf2d7d145b5421f10eb64628864c53d1c56a1,https://github.com/openmrs/openmrs-module-webservices.rest/commit/a13cf2d7d145b5421f10eb64628864c53d1c56a1,
-openmrs__openmrs-module-htmlformentry,65ce4c9d24fd3107c601442fc7f8b7270b12d9a0,https://github.com/openmrs/openmrs-module-htmlformentry/commit/65ce4c9d24fd3107c601442fc7f8b7270b12d9a0,
-vkostyukov__la4j,aaa71a102de9d5e941b4a82be95affa0cc1ee76c,https://github.com/vkostyukov/la4j/commit/aaa71a102de9d5e941b4a82be95affa0cc1ee76c,
-vert-x3__vertx-web,97973f777a7437595ee23cd75aa99cb57e81ac71,https://github.com/vert-x3/vertx-web/commit/97973f777a7437595ee23cd75aa99cb57e81ac71,
-vkostyukov__la4j,e05e78b66fd94c3301e04b6dae95f513ed391615,https://github.com/vkostyukov/la4j/commit/e05e78b66fd94c3301e04b6dae95f513ed391615,
-org-tigris-jsapar__jsapar,38593d525426a09d6a8be863368db5f15760655a,https://github.com/org-tigris-jsapar/jsapar/commit/38593d525426a09d6a8be863368db5f15760655a,
-aicis__fresco,d8a297e43b8138aec4d10fb13f00c41a599e55b4,https://github.com/aicis/fresco/commit/d8a297e43b8138aec4d10fb13f00c41a599e55b4,
-apache__incubator-tamaya,f8f7aad5fafa1d7f442012aded5eb53c5c8403e9,https://github.com/apache/incubator-tamaya/commit/f8f7aad5fafa1d7f442012aded5eb53c5c8403e9,
-classgraph__classgraph,34f33d12975bf553cc6dbe19813f181106f72840,https://github.com/classgraph/classgraph/commit/34f33d12975bf553cc6dbe19813f181106f72840,
-swagger-api__swagger-codegen,6c4765fd00322dbd25b764b20152cc965a473c98,https://github.com/swagger-api/swagger-codegen/commit/6c4765fd00322dbd25b764b20152cc965a473c98,
-openmrs__openmrs-module-webservices.rest,b081c5b08da0f0799e688ea44a7e500b25eb7668,https://github.com/openmrs/openmrs-module-webservices.rest/commit/b081c5b08da0f0799e688ea44a7e500b25eb7668,
-classgraph__classgraph,d19bd98a774c8f17a104a7c2a7dd6dc752c34bf8,https://github.com/classgraph/classgraph/commit/d19bd98a774c8f17a104a7c2a7dd6dc752c34bf8,
-openmrs__openmrs-module-webservices.rest,baebda151aeffee2f9a81307709e1a3ae227d4a6,https://github.com/openmrs/openmrs-module-webservices.rest/commit/baebda151aeffee2f9a81307709e1a3ae227d4a6,
-rkonovalov__jsonignore,aafc7b71f38fd40b8c8a505ad6c6984ff4404c4e,https://github.com/rkonovalov/jsonignore/commit/aafc7b71f38fd40b8c8a505ad6c6984ff4404c4e,
-HubSpot__Baragon,145f5f7a4a5636f5d737657c84bb1a6b9518a01a,https://github.com/HubSpot/Baragon/commit/145f5f7a4a5636f5d737657c84bb1a6b9518a01a,
-INRIA__spoon,d12f18a0a98e61845ba900629862022ffa3a3c81,https://github.com/INRIA/spoon/commit/d12f18a0a98e61845ba900629862022ffa3a3c81,
-rkonovalov__jsonignore,4188f90ffee38ee4402100ddc2f5c498ca474efc,https://github.com/rkonovalov/jsonignore/commit/4188f90ffee38ee4402100ddc2f5c498ca474efc,
-rkonovalov__jsonignore,adc6ed844187d90ce2fedb86444445113e6a7308,https://github.com/rkonovalov/jsonignore/commit/adc6ed844187d90ce2fedb86444445113e6a7308,
-spring-projects__spring-data-commons,ecf3592d1fb3458de3e2c67882541f40dd3e1106,https://github.com/spring-projects/spring-data-commons/commit/ecf3592d1fb3458de3e2c67882541f40dd3e1106,
-traccar__traccar,a59ca5006a4d3547fbbb2931ad8a163f332ad65b,https://github.com/traccar/traccar/commit/a59ca5006a4d3547fbbb2931ad8a163f332ad65b,
-lettuce-io__lettuce-core,ec700248a78d192773a53b940691e19546db97f8,https://github.com/lettuce-io/lettuce-core/commit/ec700248a78d192773a53b940691e19546db97f8,
-jgrapht__jgrapht,275c6fdbd5d026b41d445949d6daf27f9454e119,https://github.com/jgrapht/jgrapht/commit/275c6fdbd5d026b41d445949d6daf27f9454e119,
-openmrs__openmrs-module-webservices.rest,348f83449c13888dc7c68d180a80b5d5904ba5a4,https://github.com/openmrs/openmrs-module-webservices.rest/commit/348f83449c13888dc7c68d180a80b5d5904ba5a4,
-SonarOpenCommunity__sonar-cxx,03b6f7810a60bc0630fd01e0e6d921d068f566e9,https://github.com/SonarOpenCommunity/sonar-cxx/commit/03b6f7810a60bc0630fd01e0e6d921d068f566e9,
-INRIA__spoon,57ca8e5db905f1d2b63ff6cfd6b9d3289bcca5aa,https://github.com/INRIA/spoon/commit/57ca8e5db905f1d2b63ff6cfd6b9d3289bcca5aa,
-INRIA__spoon,d3507e58bd02943ae2c188f15b804e558ae621c2,https://github.com/INRIA/spoon/commit/d3507e58bd02943ae2c188f15b804e558ae621c2,
-molgenis__molgenis,15621b6eeda8581bc8d7b7db110a83c01ecda83f,https://github.com/molgenis/molgenis/commit/15621b6eeda8581bc8d7b7db110a83c01ecda83f,
-classgraph__classgraph,9fd74d75c42e4281ac29b24d5aa173c58f725bf6,https://github.com/classgraph/classgraph/commit/9fd74d75c42e4281ac29b24d5aa173c58f725bf6,
-swagger-api__swagger-codegen,ddc5293e6a43713a8cbbb86de1b0b91014165dae,https://github.com/swagger-api/swagger-codegen/commit/ddc5293e6a43713a8cbbb86de1b0b91014165dae,
-INRIA__spoon,be7449b057fc6f60146ea340b79c6e1d28c5df2a,https://github.com/INRIA/spoon/commit/be7449b057fc6f60146ea340b79c6e1d28c5df2a,
-molgenis__molgenis,5b8a153d0ffde8b080a383c2a085207a6d70ebee,https://github.com/molgenis/molgenis/commit/5b8a153d0ffde8b080a383c2a085207a6d70ebee,
-AxonFramework__AxonFramework,2dd767dd0258110ea7f53303595c05a090f44b4d,https://github.com/AxonFramework/AxonFramework/commit/2dd767dd0258110ea7f53303595c05a090f44b4d,
-apache__incubator-servicecomb-java-chassis,d382693b6e4edc188ba37669a41b84640a460197,https://github.com/apache/incubator-servicecomb-java-chassis/commit/d382693b6e4edc188ba37669a41b84640a460197,
-swagger-api__swagger-codegen,8818c209df2d9dd49a6a40f2ae8bec348ad9c062,https://github.com/swagger-api/swagger-codegen/commit/8818c209df2d9dd49a6a40f2ae8bec348ad9c062,
-cpesch__RouteConverter,fba3ef891d8851854770bbbdf8c8d24ef0b2ce9e,https://github.com/cpesch/RouteConverter/commit/fba3ef891d8851854770bbbdf8c8d24ef0b2ce9e,
-pippo-java__pippo,093c7247495b14ae71fc680c52d2ca1fcdb86a4e,https://github.com/pippo-java/pippo/commit/093c7247495b14ae71fc680c52d2ca1fcdb86a4e,
-pippo-java__pippo,7f0a5c5630338ddd1dccbf94b22a15c10dfc064b,https://github.com/pippo-java/pippo/commit/7f0a5c5630338ddd1dccbf94b22a15c10dfc064b,
-square__javapoet,5f4072b8d9d62764339e8ce79778313396cc167d,https://github.com/square/javapoet/commit/5f4072b8d9d62764339e8ce79778313396cc167d,
-apereo__java-cas-client,d6f11f89a205c8039347ef59f97a700a9fe71c7e,https://github.com/apereo/java-cas-client/commit/d6f11f89a205c8039347ef59f97a700a9fe71c7e,
-HubSpot__Baragon,a0e7fa2683b40476c7a995b4be97a836bdea314e,https://github.com/HubSpot/Baragon/commit/a0e7fa2683b40476c7a995b4be97a836bdea314e,
-linkedin__pinot,e1235c8a3dc655a7e69157b5cc076c3d6a91c692,https://github.com/linkedin/pinot/commit/e1235c8a3dc655a7e69157b5cc076c3d6a91c692,
-vert-x3__vertx-web,9d2a78ff8a3c594de918c56a26f3f875547e4198,https://github.com/vert-x3/vertx-web/commit/9d2a78ff8a3c594de918c56a26f3f875547e4198,
-OpenFeign__feign,fc43eedbc510cf9bccb51361bf810bf5a8a41f08,https://github.com/OpenFeign/feign/commit/fc43eedbc510cf9bccb51361bf810bf5a8a41f08,
-albfernandez__GDS-PMD-Security-Rules,b7b2ecf673de651733034b03dc4dbcb314c190d5,https://github.com/albfernandez/GDS-PMD-Security-Rules/commit/b7b2ecf673de651733034b03dc4dbcb314c190d5,
-ctripcorp__apollo,c3c1856579139d1921a50d3db1a13b4d17933023,https://github.com/ctripcorp/apollo/commit/c3c1856579139d1921a50d3db1a13b4d17933023,
-openmrs__openmrs-module-webservices.rest,7a3f5fc443b3229de3733220dbdabadf169b09e4,https://github.com/openmrs/openmrs-module-webservices.rest/commit/7a3f5fc443b3229de3733220dbdabadf169b09e4,
-cpesch__RouteConverter,e3bd18db6d20abb1cbf91e42a8936356e342e01d,https://github.com/cpesch/RouteConverter/commit/e3bd18db6d20abb1cbf91e42a8936356e342e01d,
-org-tigris-jsapar__jsapar,37eac948eb94cedda4568afe7386138829652c16,https://github.com/org-tigris-jsapar/jsapar/commit/37eac948eb94cedda4568afe7386138829652c16,
-aws__aws-encryption-sdk-java,f6464b77621ed6c12e9fdb84f4d73cdedff3f168,https://github.com/aws/aws-encryption-sdk-java/commit/f6464b77621ed6c12e9fdb84f4d73cdedff3f168,
-molgenis__molgenis,abe3bfb93d73db0b440ddd0c832100a588306c76,https://github.com/molgenis/molgenis/commit/abe3bfb93d73db0b440ddd0c832100a588306c76,
-pippo-java__pippo,f16b9ca43bfce27499e1007a6749b2f4d77b67a3,https://github.com/pippo-java/pippo/commit/f16b9ca43bfce27499e1007a6749b2f4d77b67a3,
-Activiti__Activiti,f1ef80dc0d4f90c5c8db3c3df0c06aa7381ef6d3,https://github.com/Activiti/Activiti/commit/f1ef80dc0d4f90c5c8db3c3df0c06aa7381ef6d3,
-Activiti__Activiti,cb55856df647469d602aedfa537ceeebb0f7952f,https://github.com/Activiti/Activiti/commit/cb55856df647469d602aedfa537ceeebb0f7952f,
-apache__incubator-dubbo,3d82de129546c4c4d79b831e43959ad271b33f11,https://github.com/apache/incubator-dubbo/commit/3d82de129546c4c4d79b831e43959ad271b33f11,
-HubSpot__Baragon,4426dcdcbdffe1bcc12a6564e7c4eeb5046bb76f,https://github.com/HubSpot/Baragon/commit/4426dcdcbdffe1bcc12a6564e7c4eeb5046bb76f,
-apereo__java-cas-client,5686f256d6b1f25e72ab75a59749693c57dc209a,https://github.com/apereo/java-cas-client/commit/5686f256d6b1f25e72ab75a59749693c57dc209a,
-pippo-java__pippo,41ba46b47c29daa98995951673dffd228d10c827,https://github.com/pippo-java/pippo/commit/41ba46b47c29daa98995951673dffd228d10c827,
-HubSpot__Baragon,d0a6756084e69f1548a92ee1fe8dc0f178bbfade,https://github.com/HubSpot/Baragon/commit/d0a6756084e69f1548a92ee1fe8dc0f178bbfade,
-apache__incubator-servicecomb-java-chassis,aaaaf5b82fbe1b51383e432db62ef7747734fde0,https://github.com/apache/incubator-servicecomb-java-chassis/commit/aaaaf5b82fbe1b51383e432db62ef7747734fde0,
-molgenis__molgenis,f644c955b85060f11a7598ba4b82e0d4cc8b0dd7,https://github.com/molgenis/molgenis/commit/f644c955b85060f11a7598ba4b82e0d4cc8b0dd7,
-openmrs__openmrs-module-webservices.rest,f6ad0ec8a0c3cb0076f5d05e84148ff22eaf1fbc,https://github.com/openmrs/openmrs-module-webservices.rest/commit/f6ad0ec8a0c3cb0076f5d05e84148ff22eaf1fbc,
-aicis__fresco,0e9f696a4b198db8d3e5f2e8cdb2fb07eadd1aea,https://github.com/aicis/fresco/commit/0e9f696a4b198db8d3e5f2e8cdb2fb07eadd1aea,
-openmrs__openmrs-module-htmlformentry,901fff84d2a7325645b22fc7885a2713cc9e7ac0,https://github.com/openmrs/openmrs-module-htmlformentry/commit/901fff84d2a7325645b22fc7885a2713cc9e7ac0,
-classgraph__classgraph,2c9cde7a4991c26097c16751757d60331c19130f,https://github.com/classgraph/classgraph/commit/2c9cde7a4991c26097c16751757d60331c19130f,
-brettwooldridge__HikariCP,03a44b7ab5426a32c0a699a9bb21761585e6ae7c,https://github.com/brettwooldridge/HikariCP/commit/03a44b7ab5426a32c0a699a9bb21761585e6ae7c,
-aicis__fresco,fd06695357841374c9f3046fe0f352005c980931,https://github.com/aicis/fresco/commit/fd06695357841374c9f3046fe0f352005c980931,
-brettwooldridge__HikariCP,7f76e3b83329a7be15a2487845451dd5bd431e99,https://github.com/brettwooldridge/HikariCP/commit/7f76e3b83329a7be15a2487845451dd5bd431e99,
-HubSpot__Baragon,49cedd0656def63e0458c5d2060780fd5980c657,https://github.com/HubSpot/Baragon/commit/49cedd0656def63e0458c5d2060780fd5980c657,
-brettwooldridge__HikariCP,65c27de32df91ffc4c3b2221f4b65f7d7fb02c14,https://github.com/brettwooldridge/HikariCP/commit/65c27de32df91ffc4c3b2221f4b65f7d7fb02c14,
-apache__incubator-dubbo,edfaee1e89d13aca1aaa230025ba0b661fc9ebef,https://github.com/apache/incubator-dubbo/commit/edfaee1e89d13aca1aaa230025ba0b661fc9ebef,
-thelastpickle__cassandra-reaper,e89720cbba5f935477f3ae0146096295dda70dc9,https://github.com/thelastpickle/cassandra-reaper/commit/e89720cbba5f935477f3ae0146096295dda70dc9,
-pippo-java__pippo,bd2ced5db57258db29c012393d5fa6df04f214c7,https://github.com/pippo-java/pippo/commit/bd2ced5db57258db29c012393d5fa6df04f214c7,
-dungba88__libra,333c493e26b349e0c1ebe36158c2795bca626e24,https://github.com/dungba88/libra/commit/333c493e26b349e0c1ebe36158c2795bca626e24,
-vert-x3__vertx-web,042b487589c4512fc0b3fa61c0ac5d19b150fd3d,https://github.com/vert-x3/vertx-web/commit/042b487589c4512fc0b3fa61c0ac5d19b150fd3d,
-apereo__java-cas-client,649b39b1c8417023c7f2b9f5c94824277e385c7c,https://github.com/apereo/java-cas-client/commit/649b39b1c8417023c7f2b9f5c94824277e385c7c,
-classgraph__classgraph,d1c1c878cc9b64fdbe579fe87c91a07a1356c11f,https://github.com/classgraph/classgraph/commit/d1c1c878cc9b64fdbe579fe87c91a07a1356c11f,
-HubSpot__Baragon,28d227b4a3fa7d85c68abac50cef0f6d77b118eb,https://github.com/HubSpot/Baragon/commit/28d227b4a3fa7d85c68abac50cef0f6d77b118eb,
-2018swecapstone__h2ms,aa3c4107b2e06dd742e3f28d7bc15a6c671e37a3,https://github.com/2018swecapstone/h2ms/commit/aa3c4107b2e06dd742e3f28d7bc15a6c671e37a3,
-aws__aws-encryption-sdk-java,5e5c2dbac7ab39d2423bc1eb588be88eb939b491,https://github.com/aws/aws-encryption-sdk-java/commit/5e5c2dbac7ab39d2423bc1eb588be88eb939b491,
-Activiti__Activiti,89d78482cab59affb3320008d2684d2e40fde98f,https://github.com/Activiti/Activiti/commit/89d78482cab59affb3320008d2684d2e40fde98f,
-apache__incubator-servicecomb-java-chassis,2d051ab19506c2b77cc88467c5a51c04bd2e2f35,https://github.com/apache/incubator-servicecomb-java-chassis/commit/2d051ab19506c2b77cc88467c5a51c04bd2e2f35,
-pippo-java__pippo,f142ac222fe2d607af082edc2b7bef5d3eec893e,https://github.com/pippo-java/pippo/commit/f142ac222fe2d607af082edc2b7bef5d3eec893e,
-openmrs__openmrs-module-htmlformentry,64bb1f9c4e7a42a8c24a6895562f093bd71be0b7,https://github.com/openmrs/openmrs-module-htmlformentry/commit/64bb1f9c4e7a42a8c24a6895562f093bd71be0b7,
-swagger-api__swagger-codegen,e5bdb3a0c18f4be402abeca22e0d114154ae6d97,https://github.com/swagger-api/swagger-codegen/commit/e5bdb3a0c18f4be402abeca22e0d114154ae6d97,
-classgraph__classgraph,3c6d5a09a9edc0fca2de89ae560fb7db5d883665,https://github.com/classgraph/classgraph/commit/3c6d5a09a9edc0fca2de89ae560fb7db5d883665,
-openmrs__openmrs-module-webservices.rest,f89e28995542c70596c4b163164bdb1520e2ae03,https://github.com/openmrs/openmrs-module-webservices.rest/commit/f89e28995542c70596c4b163164bdb1520e2ae03,
-ctripcorp__apollo,e994f543ce96f852635d863a86d9fe39ef42dfac,https://github.com/ctripcorp/apollo/commit/e994f543ce96f852635d863a86d9fe39ef42dfac,
-spring-cloud__spring-cloud-gcp,72d891b0467e8982b88860eaa863425b4a52bf3f,https://github.com/spring-cloud/spring-cloud-gcp/commit/72d891b0467e8982b88860eaa863425b4a52bf3f,
-Activiti__Activiti,e249a46c64d70d09747c37cf435dd21561a51fe2,https://github.com/Activiti/Activiti/commit/e249a46c64d70d09747c37cf435dd21561a51fe2,
-swagger-api__swagger-codegen,733e19c113b3cf77be28489ae9bc07b425cdd053,https://github.com/swagger-api/swagger-codegen/commit/733e19c113b3cf77be28489ae9bc07b425cdd053,
-cpesch__RouteConverter,822773636629b1f824b9eeedf46bc5db7650c8e5,https://github.com/cpesch/RouteConverter/commit/822773636629b1f824b9eeedf46bc5db7650c8e5,
-ctripcorp__apollo,548f931fbf34c8bd6321381540cebdba0a0e3067,https://github.com/ctripcorp/apollo/commit/548f931fbf34c8bd6321381540cebdba0a0e3067,
-EnMasseProject__enmasse,45dadd79a3aa108d617c028d5c555fba356d17e5,https://github.com/EnMasseProject/enmasse/commit/45dadd79a3aa108d617c028d5c555fba356d17e5,
-classgraph__classgraph,4e326936b9184455275fc1c2df7e24aeec0968a7,https://github.com/classgraph/classgraph/commit/4e326936b9184455275fc1c2df7e24aeec0968a7,
+albfernandez__GDS-PMD-Security-Rules,74f738f028b14d57eb48474a6f26b075aa7250b0,https://github.com/albfernandez/GDS-PMD-Security-Rules/commit/74f738f028b14d57eb48474a6f26b075aa7250b0, non-bug-fix
+HubSpot__Baragon,4f239e0bbb9f4c8a26a1a5acaf99007c1f2cc525,https://github.com/HubSpot/Baragon/commit/4f239e0bbb9f4c8a26a1a5acaf99007c1f2cc525, non-bug-fix
+apereo__java-cas-client,29165243a522c09c5466ca0ca86b63b46d27b60c,https://github.com/apereo/java-cas-client/commit/29165243a522c09c5466ca0ca86b63b46d27b60c, non-bug-fixx
+jgrapht__jgrapht,6b14c6c6658c270eaf63049336b781c478104463,https://github.com/jgrapht/jgrapht/commit/6b14c6c6658c270eaf63049336b781c478104463, non-bug-fix
+jgrapht__jgrapht,c82eaa921828dd7925f5a02b09b36c91dcd6d525,https://github.com/jgrapht/jgrapht/commit/c82eaa921828dd7925f5a02b09b36c91dcd6d525, non-bug-fix
+ctripcorp__apollo,40365e15677450e083ba0b9a4ad2364448a08c99,https://github.com/ctripcorp/apollo/commit/40365e15677450e083ba0b9a4ad2364448a08c99, non-bug-fix
+openmrs__openmrs-module-webservices.rest,a13cf2d7d145b5421f10eb64628864c53d1c56a1,https://github.com/openmrs/openmrs-module-webservices.rest/commit/a13cf2d7d145b5421f10eb64628864c53d1c56a1, non-bug-fix
+openmrs__openmrs-module-htmlformentry,65ce4c9d24fd3107c601442fc7f8b7270b12d9a0,https://github.com/openmrs/openmrs-module-htmlformentry/commit/65ce4c9d24fd3107c601442fc7f8b7270b12d9a0, non-bug-fix
+vkostyukov__la4j,aaa71a102de9d5e941b4a82be95affa0cc1ee76c,https://github.com/vkostyukov/la4j/commit/aaa71a102de9d5e941b4a82be95affa0cc1ee76c, bug-fix
+vert-x3__vertx-web,97973f777a7437595ee23cd75aa99cb57e81ac71,https://github.com/vert-x3/vertx-web/commit/97973f777a7437595ee23cd75aa99cb57e81ac71, non-bug-fix
+vkostyukov__la4j,e05e78b66fd94c3301e04b6dae95f513ed391615,https://github.com/vkostyukov/la4j/commit/e05e78b66fd94c3301e04b6dae95f513ed391615, bug-fix
+org-tigris-jsapar__jsapar,38593d525426a09d6a8be863368db5f15760655a,https://github.com/org-tigris-jsapar/jsapar/commit/38593d525426a09d6a8be863368db5f15760655a, non-bug-fix
+aicis__fresco,d8a297e43b8138aec4d10fb13f00c41a599e55b4,https://github.com/aicis/fresco/commit/d8a297e43b8138aec4d10fb13f00c41a599e55b4, bug-fix
+apache__incubator-tamaya,f8f7aad5fafa1d7f442012aded5eb53c5c8403e9,https://github.com/apache/incubator-tamaya/commit/f8f7aad5fafa1d7f442012aded5eb53c5c8403e9, bug-fix
+classgraph__classgraph,34f33d12975bf553cc6dbe19813f181106f72840,https://github.com/classgraph/classgraph/commit/34f33d12975bf553cc6dbe19813f181106f72840, non-bug-fix
+swagger-api__swagger-codegen,6c4765fd00322dbd25b764b20152cc965a473c98,https://github.com/swagger-api/swagger-codegen/commit/6c4765fd00322dbd25b764b20152cc965a473c98, non-bug-fix
+openmrs__openmrs-module-webservices.rest,b081c5b08da0f0799e688ea44a7e500b25eb7668,https://github.com/openmrs/openmrs-module-webservices.rest/commit/b081c5b08da0f0799e688ea44a7e500b25eb7668, non-bug-fix
+classgraph__classgraph,d19bd98a774c8f17a104a7c2a7dd6dc752c34bf8,https://github.com/classgraph/classgraph/commit/d19bd98a774c8f17a104a7c2a7dd6dc752c34bf8, non-bug-fix
+openmrs__openmrs-module-webservices.rest,baebda151aeffee2f9a81307709e1a3ae227d4a6,https://github.com/openmrs/openmrs-module-webservices.rest/commit/baebda151aeffee2f9a81307709e1a3ae227d4a6, non-bug-fix
+rkonovalov__jsonignore,aafc7b71f38fd40b8c8a505ad6c6984ff4404c4e,https://github.com/rkonovalov/jsonignore/commit/aafc7b71f38fd40b8c8a505ad6c6984ff4404c4e, bug-fix
+HubSpot__Baragon,145f5f7a4a5636f5d737657c84bb1a6b9518a01a,https://github.com/HubSpot/Baragon/commit/145f5f7a4a5636f5d737657c84bb1a6b9518a01a, bug-fix
+INRIA__spoon,d12f18a0a98e61845ba900629862022ffa3a3c81,https://github.com/INRIA/spoon/commit/d12f18a0a98e61845ba900629862022ffa3a3c81, non-bug-fix
+rkonovalov__jsonignore,4188f90ffee38ee4402100ddc2f5c498ca474efc,https://github.com/rkonovalov/jsonignore/commit/4188f90ffee38ee4402100ddc2f5c498ca474efc, non-bug-fix
+rkonovalov__jsonignore,adc6ed844187d90ce2fedb86444445113e6a7308,https://github.com/rkonovalov/jsonignore/commit/adc6ed844187d90ce2fedb86444445113e6a7308, non-bug-fix
+spring-projects__spring-data-commons,ecf3592d1fb3458de3e2c67882541f40dd3e1106,https://github.com/spring-projects/spring-data-commons/commit/ecf3592d1fb3458de3e2c67882541f40dd3e1106, bug-fix
+traccar__traccar,a59ca5006a4d3547fbbb2931ad8a163f332ad65b,https://github.com/traccar/traccar/commit/a59ca5006a4d3547fbbb2931ad8a163f332ad65b, non-bug-fix
+lettuce-io__lettuce-core,ec700248a78d192773a53b940691e19546db97f8,https://github.com/lettuce-io/lettuce-core/commit/ec700248a78d192773a53b940691e19546db97f8, non-bug-fix
+jgrapht__jgrapht,275c6fdbd5d026b41d445949d6daf27f9454e119,https://github.com/jgrapht/jgrapht/commit/275c6fdbd5d026b41d445949d6daf27f9454e119, non-bug-fix
+openmrs__openmrs-module-webservices.rest,348f83449c13888dc7c68d180a80b5d5904ba5a4,https://github.com/openmrs/openmrs-module-webservices.rest/commit/348f83449c13888dc7c68d180a80b5d5904ba5a4, non-bug-fix
+SonarOpenCommunity__sonar-cxx,03b6f7810a60bc0630fd01e0e6d921d068f566e9,https://github.com/SonarOpenCommunity/sonar-cxx/commit/03b6f7810a60bc0630fd01e0e6d921d068f566e9, non-bug-fix
+INRIA__spoon,57ca8e5db905f1d2b63ff6cfd6b9d3289bcca5aa,https://github.com/INRIA/spoon/commit/57ca8e5db905f1d2b63ff6cfd6b9d3289bcca5aa, bug-fix
+INRIA__spoon,d3507e58bd02943ae2c188f15b804e558ae621c2,https://github.com/INRIA/spoon/commit/d3507e58bd02943ae2c188f15b804e558ae621c2, non-bug-fix
+molgenis__molgenis,15621b6eeda8581bc8d7b7db110a83c01ecda83f,https://github.com/molgenis/molgenis/commit/15621b6eeda8581bc8d7b7db110a83c01ecda83f, non-bug-fix
+classgraph__classgraph,9fd74d75c42e4281ac29b24d5aa173c58f725bf6,https://github.com/classgraph/classgraph/commit/9fd74d75c42e4281ac29b24d5aa173c58f725bf6, non-bug-fix
+swagger-api__swagger-codegen,ddc5293e6a43713a8cbbb86de1b0b91014165dae,https://github.com/swagger-api/swagger-codegen/commit/ddc5293e6a43713a8cbbb86de1b0b91014165dae, non-bug-fix
+INRIA__spoon,be7449b057fc6f60146ea340b79c6e1d28c5df2a,https://github.com/INRIA/spoon/commit/be7449b057fc6f60146ea340b79c6e1d28c5df2a, non-bug-fix
+molgenis__molgenis,5b8a153d0ffde8b080a383c2a085207a6d70ebee,https://github.com/molgenis/molgenis/commit/5b8a153d0ffde8b080a383c2a085207a6d70ebee, non-bug-fix
+AxonFramework__AxonFramework,2dd767dd0258110ea7f53303595c05a090f44b4d,https://github.com/AxonFramework/AxonFramework/commit/2dd767dd0258110ea7f53303595c05a090f44b4d, bug-fix
+apache__incubator-servicecomb-java-chassis,d382693b6e4edc188ba37669a41b84640a460197,https://github.com/apache/incubator-servicecomb-java-chassis/commit/d382693b6e4edc188ba37669a41b84640a460197, bug-fix
+swagger-api__swagger-codegen,8818c209df2d9dd49a6a40f2ae8bec348ad9c062,https://github.com/swagger-api/swagger-codegen/commit/8818c209df2d9dd49a6a40f2ae8bec348ad9c062, non-bug-fix
+cpesch__RouteConverter,fba3ef891d8851854770bbbdf8c8d24ef0b2ce9e,https://github.com/cpesch/RouteConverter/commit/fba3ef891d8851854770bbbdf8c8d24ef0b2ce9e, non-bug-fix
+pippo-java__pippo,093c7247495b14ae71fc680c52d2ca1fcdb86a4e,https://github.com/pippo-java/pippo/commit/093c7247495b14ae71fc680c52d2ca1fcdb86a4e, bug-fix
+pippo-java__pippo,7f0a5c5630338ddd1dccbf94b22a15c10dfc064b,https://github.com/pippo-java/pippo/commit/7f0a5c5630338ddd1dccbf94b22a15c10dfc064b, bug-fix
+square__javapoet,5f4072b8d9d62764339e8ce79778313396cc167d,https://github.com/square/javapoet/commit/5f4072b8d9d62764339e8ce79778313396cc167d, non-bug-fix
+apereo__java-cas-client,d6f11f89a205c8039347ef59f97a700a9fe71c7e,https://github.com/apereo/java-cas-client/commit/d6f11f89a205c8039347ef59f97a700a9fe71c7e, non-bug-fix
+HubSpot__Baragon,a0e7fa2683b40476c7a995b4be97a836bdea314e,https://github.com/HubSpot/Baragon/commit/a0e7fa2683b40476c7a995b4be97a836bdea314e, non-bug-fix
+linkedin__pinot,e1235c8a3dc655a7e69157b5cc076c3d6a91c692,https://github.com/linkedin/pinot/commit/e1235c8a3dc655a7e69157b5cc076c3d6a91c692, bug-fix
+vert-x3__vertx-web,9d2a78ff8a3c594de918c56a26f3f875547e4198,https://github.com/vert-x3/vertx-web/commit/9d2a78ff8a3c594de918c56a26f3f875547e4198, non-bug-fix
+OpenFeign__feign,fc43eedbc510cf9bccb51361bf810bf5a8a41f08,https://github.com/OpenFeign/feign/commit/fc43eedbc510cf9bccb51361bf810bf5a8a41f08, non-bug-fix
+albfernandez__GDS-PMD-Security-Rules,b7b2ecf673de651733034b03dc4dbcb314c190d5,https://github.com/albfernandez/GDS-PMD-Security-Rules/commit/b7b2ecf673de651733034b03dc4dbcb314c190d5, non-bug-fix
+ctripcorp__apollo,c3c1856579139d1921a50d3db1a13b4d17933023,https://github.com/ctripcorp/apollo/commit/c3c1856579139d1921a50d3db1a13b4d17933023, non-bug-fix
+openmrs__openmrs-module-webservices.rest,7a3f5fc443b3229de3733220dbdabadf169b09e4,https://github.com/openmrs/openmrs-module-webservices.rest/commit/7a3f5fc443b3229de3733220dbdabadf169b09e4, non-bug-fix
+cpesch__RouteConverter,e3bd18db6d20abb1cbf91e42a8936356e342e01d,https://github.com/cpesch/RouteConverter/commit/e3bd18db6d20abb1cbf91e42a8936356e342e01d, non-bug-fix
+org-tigris-jsapar__jsapar,37eac948eb94cedda4568afe7386138829652c16,https://github.com/org-tigris-jsapar/jsapar/commit/37eac948eb94cedda4568afe7386138829652c16, non-bug-fix
+aws__aws-encryption-sdk-java,f6464b77621ed6c12e9fdb84f4d73cdedff3f168,https://github.com/aws/aws-encryption-sdk-java/commit/f6464b77621ed6c12e9fdb84f4d73cdedff3f168, bug-fix
+molgenis__molgenis,abe3bfb93d73db0b440ddd0c832100a588306c76,https://github.com/molgenis/molgenis/commit/abe3bfb93d73db0b440ddd0c832100a588306c76, bug-fix
+pippo-java__pippo,f16b9ca43bfce27499e1007a6749b2f4d77b67a3,https://github.com/pippo-java/pippo/commit/f16b9ca43bfce27499e1007a6749b2f4d77b67a3, non-bug-fix
+Activiti__Activiti,f1ef80dc0d4f90c5c8db3c3df0c06aa7381ef6d3,https://github.com/Activiti/Activiti/commit/f1ef80dc0d4f90c5c8db3c3df0c06aa7381ef6d3, bug-fix
+Activiti__Activiti,cb55856df647469d602aedfa537ceeebb0f7952f,https://github.com/Activiti/Activiti/commit/cb55856df647469d602aedfa537ceeebb0f7952f, non-bug-fix
+apache__incubator-dubbo,3d82de129546c4c4d79b831e43959ad271b33f11,https://github.com/apache/incubator-dubbo/commit/3d82de129546c4c4d79b831e43959ad271b33f11, non-bug-fix
+HubSpot__Baragon,4426dcdcbdffe1bcc12a6564e7c4eeb5046bb76f,https://github.com/HubSpot/Baragon/commit/4426dcdcbdffe1bcc12a6564e7c4eeb5046bb76f, bug-fix
+apereo__java-cas-client,5686f256d6b1f25e72ab75a59749693c57dc209a,https://github.com/apereo/java-cas-client/commit/5686f256d6b1f25e72ab75a59749693c57dc209a, non-bug-fix
+pippo-java__pippo,41ba46b47c29daa98995951673dffd228d10c827,https://github.com/pippo-java/pippo/commit/41ba46b47c29daa98995951673dffd228d10c827, non-bug-fix
+HubSpot__Baragon,d0a6756084e69f1548a92ee1fe8dc0f178bbfade,https://github.com/HubSpot/Baragon/commit/d0a6756084e69f1548a92ee1fe8dc0f178bbfade, bug-fix
+apache__incubator-servicecomb-java-chassis,aaaaf5b82fbe1b51383e432db62ef7747734fde0,https://github.com/apache/incubator-servicecomb-java-chassis/commit/aaaaf5b82fbe1b51383e432db62ef7747734fde0, bug-fix
+molgenis__molgenis,f644c955b85060f11a7598ba4b82e0d4cc8b0dd7,https://github.com/molgenis/molgenis/commit/f644c955b85060f11a7598ba4b82e0d4cc8b0dd7, bug-fix
+openmrs__openmrs-module-webservices.rest,f6ad0ec8a0c3cb0076f5d05e84148ff22eaf1fbc,https://github.com/openmrs/openmrs-module-webservices.rest/commit/f6ad0ec8a0c3cb0076f5d05e84148ff22eaf1fbc, bug-fix
+aicis__fresco,0e9f696a4b198db8d3e5f2e8cdb2fb07eadd1aea,https://github.com/aicis/fresco/commit/0e9f696a4b198db8d3e5f2e8cdb2fb07eadd1aea, non-bug-fix
+openmrs__openmrs-module-htmlformentry,901fff84d2a7325645b22fc7885a2713cc9e7ac0,https://github.com/openmrs/openmrs-module-htmlformentry/commit/901fff84d2a7325645b22fc7885a2713cc9e7ac0, bug-fix
+classgraph__classgraph,2c9cde7a4991c26097c16751757d60331c19130f,https://github.com/classgraph/classgraph/commit/2c9cde7a4991c26097c16751757d60331c19130f, non-bug-fix
+brettwooldridge__HikariCP,03a44b7ab5426a32c0a699a9bb21761585e6ae7c,https://github.com/brettwooldridge/HikariCP/commit/03a44b7ab5426a32c0a699a9bb21761585e6ae7c, non-bug-fix
+aicis__fresco,fd06695357841374c9f3046fe0f352005c980931,https://github.com/aicis/fresco/commit/fd06695357841374c9f3046fe0f352005c980931, non-bug-fix
+brettwooldridge__HikariCP,7f76e3b83329a7be15a2487845451dd5bd431e99,https://github.com/brettwooldridge/HikariCP/commit/7f76e3b83329a7be15a2487845451dd5bd431e99, non-bug-fix
+HubSpot__Baragon,49cedd0656def63e0458c5d2060780fd5980c657,https://github.com/HubSpot/Baragon/commit/49cedd0656def63e0458c5d2060780fd5980c657, non-bug-fix
+brettwooldridge__HikariCP,65c27de32df91ffc4c3b2221f4b65f7d7fb02c14,https://github.com/brettwooldridge/HikariCP/commit/65c27de32df91ffc4c3b2221f4b65f7d7fb02c14, non-bug-fix
+apache__incubator-dubbo,edfaee1e89d13aca1aaa230025ba0b661fc9ebef,https://github.com/apache/incubator-dubbo/commit/edfaee1e89d13aca1aaa230025ba0b661fc9ebef, non-bug-fix
+thelastpickle__cassandra-reaper,e89720cbba5f935477f3ae0146096295dda70dc9,https://github.com/thelastpickle/cassandra-reaper/commit/e89720cbba5f935477f3ae0146096295dda70dc9, bug-fix
+pippo-java__pippo,bd2ced5db57258db29c012393d5fa6df04f214c7,https://github.com/pippo-java/pippo/commit/bd2ced5db57258db29c012393d5fa6df04f214c7, bug-fix
+dungba88__libra,333c493e26b349e0c1ebe36158c2795bca626e24,https://github.com/dungba88/libra/commit/333c493e26b349e0c1ebe36158c2795bca626e24, non-bug-fix
+vert-x3__vertx-web,042b487589c4512fc0b3fa61c0ac5d19b150fd3d,https://github.com/vert-x3/vertx-web/commit/042b487589c4512fc0b3fa61c0ac5d19b150fd3d, non-bug-fix
+apereo__java-cas-client,649b39b1c8417023c7f2b9f5c94824277e385c7c,https://github.com/apereo/java-cas-client/commit/649b39b1c8417023c7f2b9f5c94824277e385c7c, non-bug-fix
+classgraph__classgraph,d1c1c878cc9b64fdbe579fe87c91a07a1356c11f,https://github.com/classgraph/classgraph/commit/d1c1c878cc9b64fdbe579fe87c91a07a1356c11f, non-bug-fix
+HubSpot__Baragon,28d227b4a3fa7d85c68abac50cef0f6d77b118eb,https://github.com/HubSpot/Baragon/commit/28d227b4a3fa7d85c68abac50cef0f6d77b118eb, non-bug-fix
+2018swecapstone__h2ms,aa3c4107b2e06dd742e3f28d7bc15a6c671e37a3,https://github.com/2018swecapstone/h2ms/commit/aa3c4107b2e06dd742e3f28d7bc15a6c671e37a3, non-bug-fix
+aws__aws-encryption-sdk-java,5e5c2dbac7ab39d2423bc1eb588be88eb939b491,https://github.com/aws/aws-encryption-sdk-java/commit/5e5c2dbac7ab39d2423bc1eb588be88eb939b491, non-bug-fix
+Activiti__Activiti,89d78482cab59affb3320008d2684d2e40fde98f,https://github.com/Activiti/Activiti/commit/89d78482cab59affb3320008d2684d2e40fde98f, non-bug-fix
+apache__incubator-servicecomb-java-chassis,2d051ab19506c2b77cc88467c5a51c04bd2e2f35,https://github.com/apache/incubator-servicecomb-java-chassis/commit/2d051ab19506c2b77cc88467c5a51c04bd2e2f35, non-bug-fix
+pippo-java__pippo,f142ac222fe2d607af082edc2b7bef5d3eec893e,https://github.com/pippo-java/pippo/commit/f142ac222fe2d607af082edc2b7bef5d3eec893e, bug-fix
+openmrs__openmrs-module-htmlformentry,64bb1f9c4e7a42a8c24a6895562f093bd71be0b7,https://github.com/openmrs/openmrs-module-htmlformentry/commit/64bb1f9c4e7a42a8c24a6895562f093bd71be0b7, bug-fix
+swagger-api__swagger-codegen,e5bdb3a0c18f4be402abeca22e0d114154ae6d97,https://github.com/swagger-api/swagger-codegen/commit/e5bdb3a0c18f4be402abeca22e0d114154ae6d97, bug-fix
+classgraph__classgraph,3c6d5a09a9edc0fca2de89ae560fb7db5d883665,https://github.com/classgraph/classgraph/commit/3c6d5a09a9edc0fca2de89ae560fb7db5d883665, non-bug-fix
+openmrs__openmrs-module-webservices.rest,f89e28995542c70596c4b163164bdb1520e2ae03,https://github.com/openmrs/openmrs-module-webservices.rest/commit/f89e28995542c70596c4b163164bdb1520e2ae03, non-bug-fix
+ctripcorp__apollo,e994f543ce96f852635d863a86d9fe39ef42dfac,https://github.com/ctripcorp/apollo/commit/e994f543ce96f852635d863a86d9fe39ef42dfac, non-bug-fix
+spring-cloud__spring-cloud-gcp,72d891b0467e8982b88860eaa863425b4a52bf3f,https://github.com/spring-cloud/spring-cloud-gcp/commit/72d891b0467e8982b88860eaa863425b4a52bf3f, non-bug-fix
+Activiti__Activiti,e249a46c64d70d09747c37cf435dd21561a51fe2,https://github.com/Activiti/Activiti/commit/e249a46c64d70d09747c37cf435dd21561a51fe2, bug-fix
+swagger-api__swagger-codegen,733e19c113b3cf77be28489ae9bc07b425cdd053,https://github.com/swagger-api/swagger-codegen/commit/733e19c113b3cf77be28489ae9bc07b425cdd053, bug-fix
+cpesch__RouteConverter,822773636629b1f824b9eeedf46bc5db7650c8e5,https://github.com/cpesch/RouteConverter/commit/822773636629b1f824b9eeedf46bc5db7650c8e5, non-bug-fix
+ctripcorp__apollo,548f931fbf34c8bd6321381540cebdba0a0e3067,https://github.com/ctripcorp/apollo/commit/548f931fbf34c8bd6321381540cebdba0a0e3067, bug-fix
+EnMasseProject__enmasse,45dadd79a3aa108d617c028d5c555fba356d17e5,https://github.com/EnMasseProject/enmasse/commit/45dadd79a3aa108d617c028d5c555fba356d17e5, non-bug-fix
+classgraph__classgraph,4e326936b9184455275fc1c2df7e24aeec0968a7,https://github.com/classgraph/classgraph/commit/4e326936b9184455275fc1c2df7e24aeec0968a7, non-bug-fix
 lettuce-io__lettuce-core,4d0fa1984ac680797865289d91f20b432bfcc978,https://github.com/lettuce-io/lettuce-core/commit/4d0fa1984ac680797865289d91f20b432bfcc978,
 openmrs__openmrs-module-webservices.rest,d520291aaf8d370c959f880735b6700065197a22,https://github.com/openmrs/openmrs-module-webservices.rest/commit/d520291aaf8d370c959f880735b6700065197a22,
 INRIA__spoon,29b8e74e2d76150683bd66cf212e4266c64ce353,https://github.com/INRIA/spoon/commit/29b8e74e2d76150683bd66cf212e4266c64ce353,
