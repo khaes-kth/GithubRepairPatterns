@@ -115,3 +115,4 @@ Please have these points in mind while doing the analysis:
 1.	A *bug-fix commit* is a change to the behavior of the application, which only affects a small fraction of the input space, in order to align the actual behavior with the expected behavior.
 2.	To classify the commit as bug-fix or not, the annotator analyzes *both the diff and the message of the commit*. Examples of bug-fix commits are: 'fix bug #1234' (message), add a null check (code).
 3.	A fix in the test suite is not a bug-fix.
+4.	Commits that only change logs are not bug-fix commits.
