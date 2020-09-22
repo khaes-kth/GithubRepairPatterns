@@ -9,7 +9,6 @@ https://github.com/2018swecapstone/h2ms/commit/f5013f91c9a457a86e5694a0547fb8272
 https://github.com/spring-projects/spring-data-jpa/commit/9381d6a5a3469f9c10195fb68617d300d6057531,src/test/java/org/springframework/data/jpa/repository/RepositoryWithCompositeKeyTests.java
 https://github.com/spring-projects/spring-data-jpa/commit/69bcc3d8873b8f413414e538c533f34810655075,src/test/java/org/springframework/data/jpa/support/MergingPersistenceUnitManagerUnitTests.java
 https://github.com/spring-cloud/spring-cloud-gcp/commit/72d891b0467e8982b88860eaa863425b4a52bf3f,spring-cloud-gcp-autoconfigure/src/test/java/org/springframework/cloud/gcp/autoconfigure/pubsub/it/PubSubChannelAdaptersIntegrationTests.java
-https://github.com/spring-cloud/spring-cloud-gcp/commit/492a4c20746d2a7f3e05a3bfe6a54d68b0c74f67,spring-cloud-gcp-autoconfigure/src/test/resources/logback-test.xml
 https://github.com/spring-cloud/spring-cloud-gcp/commit/aa401772f653c9e62be506ad56f19daef9e960d6,spring-cloud-gcp-autoconfigure/src/test/java/org/springframework/cloud/gcp/autoconfigure/core/GcpContextAutoConfigurationTests.java
 https://github.com/spring-cloud/spring-cloud-gcp/commit/82039baaeeb175cfc0d4422aac4d715b262681da,spring-cloud-gcp-data-spanner/src/test/java/org/springframework/cloud/gcp/data/spanner/core/mapping/SpannerPersistentEntityImplTests.java
 https://github.com/aws/aws-encryption-sdk-java/commit/f6464b77621ed6c12e9fdb84f4d73cdedff3f168,src/test/java/com/amazonaws/encryptionsdk/internal/FrameEncryptionHandlerVeryLongTest.java
@@ -39,16 +38,12 @@ https://github.com/lettuce-io/lettuce-core/commit/5b6cd31c6073c17e5cc8b3c185dad0
 https://github.com/lettuce-io/lettuce-core/commit/a2f8d942d6d314b5170774b394b298b57e8b13d9,src/test/java/com/lambdaworks/redis/SetCommandTest.java
 https://github.com/molgenis/molgenis/commit/15621b6eeda8581bc8d7b7db110a83c01ecda83f,molgenis-compute-core/src/test/java/org/molgenis/compute5/test/workflows/IncludeParameterFileTest.java
 https://github.com/molgenis/molgenis/commit/6902117e43d748cbee0b48572629f3f7f0814ed8,molgenis-omx-protocolviewer/src/test/java/org/molgenis/omx/EMeasureFeatureWriterTest.java
-https://github.com/Activiti/Activiti/commit/e249a46c64d70d09747c37cf435dd21561a51fe2,modules/activiti-engine-test-cfg/src/test/resources/org/activiti/test/service/activiti.properties
 https://github.com/Activiti/Activiti/commit/0d8c7ece9d25114445d4b4bc3586f7454e8d5d45,modules/activiti-cycle/src/test/java/org/activiti/cycle/impl/connector/signavio/SignavioConnectorTest.java
 https://github.com/aicis/fresco/commit/0e9f696a4b198db8d3e5f2e8cdb2fb07eadd1aea,src/test/java/dk/alexandra/fresco/lib/lp/LPSolverTests.java
 https://github.com/aicis/fresco/commit/fd06695357841374c9f3046fe0f352005c980931,src/test/java/dk/alexandra/fresco/lib/arithmetic/LPSolverTests.java
 https://github.com/SonarOpenCommunity/sonar-cxx/commit/fbb7b612757fa9ad39d210781e314f1e788ad240,cxx-squid/src/test/java/org/sonar/cxx/parser/StatementTest.java
 https://github.com/SonarOpenCommunity/sonar-cxx/commit/e49c30a13225e8bb44e63efd7ed30f4c6770629b,cxx-squid/src/test/java/org/sonar/cxx/preprocessor/SourceCodeProviderTest.java
-https://github.com/SonarOpenCommunity/sonar-cxx/commit/a04b70ce7e6ca05727054b7ae8882f0c03396866,cxx-checks/src/test/resources/checks/UselessParenthesesCheck.cc
 https://github.com/SonarOpenCommunity/sonar-cxx/commit/4d5fd8e47740c1aa141402be79919661bb1a2dae,sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxSourceImporterTest.java
-https://github.com/SonarOpenCommunity/sonar-cxx/commit/20c3de7293fcc980409ff1a2bd462c75e71300bc,cxx-checks/src/test/resources/checks/commentedCode.cc
-https://github.com/SonarOpenCommunity/sonar-cxx/commit/641d51bfd27e6aca91f87913a56f3e46b085ffc9,cxx-squid/src/test/resources/metrics/public_api.h
 https://github.com/apache/incubator-servicecomb-java-chassis/commit/fa01204f65f691763f2f83c822e9373bee1c91c3,integration-tests/tracing-tests/src/test/java/io/servicecomb/tests/tracing/ZipkinTracingIntegrationTest.java
 https://github.com/apache/incubator-servicecomb-java-chassis/commit/c4f1952b60c6681905be2b43c1f253a2f0a24379,handlers/handler-bizkeeper/src/test/java/io/servicecomb/bizkeeper/TestConfiguration.java
 https://github.com/apache/incubator-servicecomb-java-chassis/commit/2783fd5d02456094209ff338ebcee38cfadffbbd,dynamic-config/config-cc/src/test/java/org/apache/servicecomb/config/client/TestMemberDiscovery.java
@@ -58,7 +53,6 @@ https://github.com/apache/incubator-servicecomb-java-chassis/commit/5274dc0f21c3
 https://github.com/SpoonLabs/gumtree-spoon-ast-diff/commit/5bb0b1f65a84962bfd3c7041b378ee208ab7e837,src/test/java/fr/inria/sacha/spoon/diffSpoon/DiffSpoonTest.java
 https://github.com/SpoonLabs/gumtree-spoon-ast-diff/commit/626ab0a73a4fc9cbad0a0236f7764ca9cf32eef6,src/test/java/gumtree/spoon/AstComparatorTest.java
 https://github.com/SpoonLabs/gumtree-spoon-ast-diff/commit/4c22b6e40d544a5cdca6412e0946a6fcf7b60e4b,src/test/java/fr/inria/sacha/spoon/diffSpoon/DiffSpoonTest.java
-https://github.com/DmitriiSerikov/money-transfer-service/commit/b433d4855b5d4c9377efa7e5a3ee61cb8d67de12,src/test/groovy/com/github/example/service/impl/TransactionServiceSpec.groovy
 https://github.com/dungba88/libra/commit/333c493e26b349e0c1ebe36158c2795bca626e24,src/test/java/org/joo/libra/test/TestSqlVariable.java
 https://github.com/jenkinsci/ansicolor-plugin/commit/7740f7e61127eadd3b1badc8567ff816a4e45e3b,src/test/java/hudson/plugins/ansicolor/AnsiColorBuildWrapperTest.java
 https://github.com/vert-x3/vertx-web/commit/c2ece7509a88a8453525c4ab9640574d185fdfd6,src/test/java/io/vertx/ext/apex/handler/SockJSHandlerTest.java
@@ -112,5 +106,3 @@ https://github.com/openmrs/openmrs-module-webservices.rest/commit/37774ba16a7664
 https://github.com/openmrs/openmrs-module-webservices.rest/commit/2de982dc78473d9eef090d2f326b29d1c156da7b,omod/src/test/java/org/openmrs/module/webservices/rest/web/v1_0/controller/ObsControllerTest.java
 https://github.com/openmrs/openmrs-module-webservices.rest/commit/f89e28995542c70596c4b163164bdb1520e2ae03,omod/src/test/java/org/openmrs/module/webservices/rest/web/controller/ResourceDocCreatorTest.java
 https://github.com/swagger-api/swagger-codegen/commit/f9ed8a9a084773d4bc29cf2623228c58ac8ef692,samples/client/petstore/java/src/test/java/io/swagger/petstore/test/PetApiTest.java
-https://github.com/swagger-api/swagger-codegen/commit/bd5eb7ace39123389184a103cb404ace51cc5d79,modules/swagger-codegen/src/test/scala/php/PhpModelTest.scala
-https://github.com/swagger-api/swagger-codegen/commit/44b4af0374da2994dec4734c54c060a640ec2b5b,modules/swagger-codegen/src/test/scala/Java/JavaModelTest.scala
