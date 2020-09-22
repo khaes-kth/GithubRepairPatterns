@@ -1,0 +1,2 @@
+All_Commits: 630, BUGS: 389 (61%), NOT_BUGS: 186 (29%), DONT_KNOW: 55 (8%), Conflicts: 209 (33%)
+Test-changing-commits: 107
