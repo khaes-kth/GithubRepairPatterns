@@ -1,23 +1,23 @@
-# Longitudinal Analysis of the Applicability of Program Repair on Past Commits
+# Fast and Lightweight Analysis of the Potential of Program Repair Approaches
 
 Open science repository with scripts and data about our paper.
 
 ## Tool
 
-The jar file of the tool is included in the "tool" folder. RSCommitDetector is built on top of Coming and the name of the jar file is "coming.jar". 
+The jar file of the tool is included in the "tool" folder. LighteR is built on top of Coming and the name of the jar file is "coming.jar". 
 In this folder, "commands.sh" shows some sample commands for executing the tool.
 
 The source code of the tool is not available here to prevent from causing problems for the double-blind review.
 
 ## Output
-The "output" folder contains the zipped output of running RSCommitDetector on 72 repositories of Bears.
+The "output" folder contains the zipped output of running LighteR on 72 repositories of Bears.
 
 ## Results
 
 The "results" folder contains the results of analyses. In addition to "selected-commits.csv", it also includes the change patterns that we have used to encode the search space of repair tools.
-It also includes the results of running RSCommitDetector on ground-truth patches (in answer to RQ3).
+It also includes the results of running LighteR on ground-truth patches (in answer to RQ3).
 
-`results/selected-commits.csv` contains results of a manual evaluation on the precision of RSCommitDetector. 
+`results/selected-commits.csv` contains results of a manual evaluation on the precision of LighteR. 
 The meaning of scores in the "evaluation result" column is determined according to the following table:
 
 | Score  | Meaning |
