@@ -8,6 +8,7 @@ tools = {"Arja", "Cardumen", "Elixir", "JGenProg", "JKali", "JMutRepair", "Nopol
 # tools = {"Arja"}
 
 def process(repoName, repoUrl, branch, tool):
+    # max_changed_file_size set to 1000 for dhis2 and 500 for raphw projects
     exec_id = f"{repoName}_{tool}"
     print(f"Working on {exec_id}_{branch}")
 
