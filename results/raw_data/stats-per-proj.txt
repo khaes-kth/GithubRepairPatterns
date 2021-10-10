@@ -1,0 +1,7 @@
+Closure => 91 54
+Lang => 165 25
+Time => 42 10
+Math => 319 56
+Chart => 112 15
+All patches 729
+All bugs 160
