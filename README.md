@@ -1,4 +1,4 @@
-# Fast and Lightweight Analysis of the Potential of Program Repair Approaches
+# Estimating the Potential of Program Repair Search Spaces with Commit Analysis
 
 Open science repository with scripts and data about our paper.
 
