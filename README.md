@@ -1,6 +1,17 @@
 # Estimating the Potential of Program Repair Search Spaces with Commit Analysis
 
-Open science repository with scripts and data about our paper.
+Open science repository with scripts and data about our paper [Estimating the Potential of Program Repair Search Spaces with Commit Analysis](http://arxiv.org/pdf/2007.06986) ([doi:10.1016/j.jss.2022.111263](https://doi.org/10.1016/j.jss.2022.111263))
+
+```bibtex
+@article{etemadi2022estimating,
+ title = {Estimating the Potential of Program Repair Search Spaces with Commit Analysis},
+ journal = {Journal of Systems and Software},
+ year = {2022},
+ doi = {10.1016/j.jss.2022.111263},
+ author = {Khashayar Etemadi and Niloofar Tarighat and Siddharth Yadav and Matias Martinez and Martin Monperrus},
+ url = {http://arxiv.org/pdf/2007.06986},
+}
+```
 
 ## Tool
 
